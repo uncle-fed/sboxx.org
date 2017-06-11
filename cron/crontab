@@ -1,0 +1,5 @@
+LANG=en_US.UTF-8
+PATH=/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin
+MAILTO=cron@sboxx.org
+0 0 * * * /home/sboxx.org/dbdat/update.sh >/home/sboxx.org/log/dbdat.$(date +\%d).log 2>&1
+37 */4 * * * /home/sboxx.org/epg/wget_epg.sh >/home/sboxx.org/log/epg.log 2>&1

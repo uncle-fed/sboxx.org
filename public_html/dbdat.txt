@@ -1,0 +1,1922 @@
+06 Mar 2016:
+   HOT BIRD 13°E        + 12245/H 29900 5/6  QPSK
+   BADR 26°E            + 12360/V 27500 3/4  QPSK
+-------------------------------------------------
+05 Mar 2016: no change
+-------------------------------------------------
+04 Mar 2016:
+   EUTELSAT 12.5°W      + 12638/H 13990 3/5  8PSK
+-------------------------------------------------
+03 Mar 2016:
+   TÜRKSAT 42°E         - 12073/V 27500 5/6  8PSK
+   TÜRKSAT 42°E         + 12079/H  6400 5/6  QPSK
+   YAMAL 90°E           - 10934/V 13746 3/4  8PSK
+   YAMAL 90°E           - 11559/V  5254 5/6  8PSK
+   YAMAL 90°E           + 11559/V  6368 5/6  8PSK
+   AMOS 4°W             + 11222/H 30000 7/8  QPSK
+   AMOS 4°W             + 11258/H 30000 3/4  8PSK
+-------------------------------------------------
+02 Mar 2016:
+   ASTRA 4.8°E          - 12169/V 27500 3/4  8PSK
+   ASTRA 4.8°E          - 12207/V 30000 3/4  8PSK
+   EUTELSAT 16°E        - 21537/H  1070 3/4  8PSK
+   EUTELSAT 16°E        + 21547/H   144 3/4  QPSK
+   EUTELSAT 16°E        - 21551/H  1060 2/3  QPSK
+   ASTRA 28.2°E         + 11538/V 22000 5/6  QPSK
+   TÜRKSAT 42°E         + 12468/H  9580 5/6  8PSK
+   ABS 75°E             + 12227/H 44000 auto QPSK
+   YAMAL 90°E           + 11580/H 20000 auto 8PSK
+   AMOS 4°W             - 11569/V  5184 3/4  8PSK
+   AMOS 4°W             + 11569/V  5184 3/4  QPSK
+   AMOS 4°W             + 11577/V  6295 3/4  QPSK
+-------------------------------------------------
+01 Mar 2016:
+   EUTELSAT 7°E         + 12590/V  3750 3/4  8PSK
+   HOT BIRD 13°E        - 11526/H 27500 3/4  QPSK
+   HOT BIRD 13°E        + 11526/H 29700 2/3  8PSK
+   HOT BIRD 13°E        - 12399/H 27500 3/4  QPSK
+   BADR 26°E            - 12360/V 27500 3/4  QPSK
+-------------------------------------------------
+29 Feb 2016:
+   HOT BIRD 13°E        - 10775/H 29900 5/6  QPSK
+   EUTELSAT 21.6°E      - 12708/H  2104 3/4  QPSK
+   EUTELSAT 21.6°E      + 12708/H  2104 3/5  8PSK
+   ASTRA 31.5°E         - 12266/H 27500 5/6  8PSK
+-------------------------------------------------
+28 Feb 2016:
+   EUTELSAT 5°W         + 12585/H 35000 2/3  8PSK
+   EUTELSAT 5°W         + 12606/V 35000 2/3  8PSK
+   EUTELSAT 5°W         + 12627/H 35000 2/3  8PSK
+   AMOS 4°W             - 11222/H 27500 3/4  QPSK
+-------------------------------------------------
+27 Feb 2016:
+   EXPRESS AM 53°E      - 10961/V  1230 3/4  QPSK
+-------------------------------------------------
+26 Feb 2016:
+   EUTELSAT 21.6°E      - 11659/H  1480 3/4  8PSK
+   EUTELSAT 21.6°E      + 11693/V  1480 3/4  8PSK
+   EUTELSAT 21.6°E      + 12708/H  2104 3/4  QPSK
+   BADR 26°E            - 11977/V 27500 3/4  QPSK
+   BADR 26°E            - 12578/H  3200 3/4  8PSK
+   BADR 26°E            + 12698/H  3200 3/4  8PSK
+-------------------------------------------------
+25 Feb 2016:
+   EXPRESS AM 140°E     - 11665/V 38400 auto QPSK
+   EXPRESS AM 140°E     + 11665/V 38400 5/6  QPSK
+-------------------------------------------------
+24 Feb 2016:
+   HOT BIRD 13°E        - 11373/H 27500 2/3  QPSK
+-------------------------------------------------
+23 Feb 2016:
+   EUTELSAT 10°E        - 11580/V  3330 5/6  QPSK
+   EUTELSAT 16°E        - 10977/H 24113 auto 8PSK
+   EUTELSAT 16°E        + 10977/H 24114 auto 8PSK
+   TÜRKSAT 42°E         + 11096/V 30000 5/6  QPSK
+   TELSTAR 15°W         - 11123/H 21600 3/4  QPSK
+-------------------------------------------------
+22 Feb 2016:
+   EUROBIRD 9°E         - 12054/H 27500 2/3  8PSK
+   TÜRKSAT 42°E         + 12685/H 30000 5/6  QPSK
+   TELSTAR 15°W         + 12739/H  7552 3/4  QPSK
+   AMOS 4°W             + 11222/H 27500 3/4  QPSK
+-------------------------------------------------
+21 Feb 2016: no change
+-------------------------------------------------
+20 Feb 2016:
+   PAKSAT 38°E          -  4037/V  4800 5/6  8PSK
+   INTELSAT 60°E        - 11595/H 30000 3/4  8PSK
+   HISPASAT 30°W        - 12092/H 27500 3/4  QPSK
+   HISPASAT 30°W        + 12092/H 30000 3/4  8PSK
+   TELSTAR 15°W         - 12511/V  7552 3/4  QPSK
+-------------------------------------------------
+19 Feb 2016:
+   ASTRA 4.8°E          + 11265/H 30000 3/4  8PSK
+   ASTRA 4.8°E          + 11385/H 30000 3/4  8PSK
+-------------------------------------------------
+18 Feb 2016:
+   ASTRA 4.8°E          - 11265/H 30000 3/4  8PSK
+-------------------------------------------------
+17 Feb 2016:
+   ASTRA 28.2°E         - 10744/H 22000 5/6  QPSK
+   INTELSAT 45°E        + 11586/V 21416 2/3  8PSK
+-------------------------------------------------
+16 Feb 2016:
+   EUTELSAT 7°E         + 10762/H 30000 5/6  8PSK
+-------------------------------------------------
+15 Feb 2016:
+   NILESAT 7°W          + 12284/V 27500 3/4  QPSK
+-------------------------------------------------
+14 Feb 2016:
+   HOT BIRD 13°E        + 11013/H 29900 3/4  8PSK
+   TÜRKSAT 42°E         - 11096/V 30000 5/6  QPSK
+   TÜRKSAT 42°E         - 12079/H  6400 5/6  QPSK
+   TÜRKSAT 42°E         - 12685/H 30000 5/6  QPSK
+-------------------------------------------------
+13 Feb 2016: no change
+-------------------------------------------------
+12 Feb 2016: no change
+-------------------------------------------------
+11 Feb 2016:
+   EUTELSAT 16°E        + 12660/H  2222 3/4  8PSK
+   EUTELSAT 36°E        - 12190/H 20000 3/4  QPSK
+   EUTELSAT 36°E        + 12190/H 22500 3/4  QPSK
+   EXPRESS AM 53°E      - 11001/V  1920 3/4  QPSK
+   EXPRESS AM 53°E      + 10996/V  2530 3/4  QPSK
+   YAMAL 90°E           - 11504/V  2280 3/4  QPSK
+   YAMAL 90°E           + 11505/V  3800 1/2  QPSK
+-------------------------------------------------
+10 Feb 2016:
+   YAMAL 90°E           - 10911/V  6172 3/4  8PSK
+   YAMAL 90°E           - 10933/V 13746 3/4  8PSK
+   YAMAL 90°E           + 10910/V  6172 3/4  8PSK
+   YAMAL 90°E           + 10934/V 13746 3/4  8PSK
+   YAMAL 90°E           - 11670/H 14400 5/6  8PSK
+   YAMAL 90°E           + 11668/H 14400 5/6  8PSK
+-------------------------------------------------
+09 Feb 2016:
+   EUTELSAT 16°E        + 11645/V 27700 5/6  8PSK
+   EUTELSAT 16°E        - 12607/H 27700 5/6  8PSK
+-------------------------------------------------
+08 Feb 2016:
+   YAMAL 90°E           + 10911/V  6172 3/4  8PSK
+   HISPASAT 30°W        - 10946/H  4000 9/10 8PSK
+   TELSTAR 15°W         + 11492/V  2170 3/4  QPSK
+   TELSTAR 15°W         - 11591/V  2893 3/4  QPSK
+-------------------------------------------------
+07 Feb 2016:
+   EUTELSAT 10°E        - 11585/V  3330 5/6  QPSK
+   EUTELSAT 10°E        - 11589/V  3330 5/6  QPSK
+   TÜRKSAT 42°E         - 11070/H  4000 3/4  QPSK
+   TELSTAR 15°W         - 10997/V  2894 3/4  QPSK
+   TELSTAR 15°W         - 11033/V  2130 3/4  QPSK
+   EUTELSAT 8°W         + 12521/H 27500 2/3  8PSK
+   EUTELSAT 5°W         - 12690/V 30000 3/5  8PSK
+   EUTELSAT 5°W         + 12690/V 29950 3/4  8PSK
+-------------------------------------------------
+06 Feb 2016:
+   HOT BIRD 13°E        + 11373/H 27500 2/3  QPSK
+   HOT BIRD 13°E        - 11432/V 27500 2/3  QPSK
+-------------------------------------------------
+05 Feb 2016:
+   YAMAL 90°E           - 11131/V 11160 2/3  8PSK
+   TELSTAR 15°W         - 11604/H  5886 2/3  QPSK
+   EUTELSAT 8°W         + 11096/V 30000 5/6  8PSK
+-------------------------------------------------
+04 Feb 2016:
+   HOT BIRD 13°E        - 11585/V 29900 3/4  8PSK
+-------------------------------------------------
+03 Feb 2016:
+   HOT BIRD 13°E        + 11585/V 29900 3/4  8PSK
+   ASTRA 28.2°E         + 11739/V 29500 8/9  8PSK
+   ASTRA 28.2°E         + 12285/V 27500 2/3  QPSK
+   TELSTAR 15°W         + 11497/V  2894 3/4  QPSK
+   TELSTAR 15°W         - 12549/V  2894 3/4  QPSK
+-------------------------------------------------
+02 Feb 2016:
+   ASTRA 4.8°E          + 12322/V 27500 5/6  8PSK
+   ASTRA 28.2°E         - 11758/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 11758/H 29500 8/9  8PSK
+   ASTRA 28.2°E         - 12012/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12012/V 29500 8/9  8PSK
+   ASTRA 28.2°E         - 12090/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12090/V 29500 8/9  8PSK
+   ASTRA 28.2°E         - 12168/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12168/V 29500 8/9  8PSK
+   ASTRA 28.2°E         - 12227/H 29500 3/4  8PSK
+   ASTRA 28.2°E         - 12246/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12227/H 29500 8/9  8PSK
+   ASTRA 28.2°E         + 12246/V 29500 8/9  8PSK
+   ASTRA 28.2°E         + 12304/H 27500 2/3  QPSK
+   ASTRA 28.2°E         - 12460/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12460/H 29500 8/9  8PSK
+   EXPRESS AM 140°E     + 11387/V 30000 auto 8PSK
+   EXPRESS AM 140°E     + 11665/V 38400 auto QPSK
+   HISPASAT 30°W        + 12702/V  1041 3/4  8PSK
+-------------------------------------------------
+01 Feb 2016:
+   EUTELSAT 10°E        - 11596/V  6665 3/4  QPSK
+   INTELSAT 60°E        + 11595/H 30000 3/4  8PSK
+-------------------------------------------------
+31 Jan 2016:
+   EUTELSAT 10°E        - 11542/H  4900 3/4  QPSK
+   EUTELSAT 10°E        + 11543/H  4900 3/4  QPSK
+   HOT BIRD 13°E        + 11432/V 27500 2/3  QPSK
+   EUTELSAT 16°E        - 11645/V 27700 5/6  8PSK
+   EUTELSAT 21.6°E      + 11569/H  7220 3/4  8PSK
+-------------------------------------------------
+30 Jan 2016: no change
+-------------------------------------------------
+29 Jan 2016:
+   EUTELSAT 21.6°E      + 11482/H  2856 3/4  QPSK
+   PAKSAT 38°E          -  3734/V 18000 4/5  8PSK
+   PAKSAT 38°E          +  3734/V 18000 5/6  8PSK
+-------------------------------------------------
+28 Jan 2016:
+   EXPRESS AM 140°E     - 11657/V 24800 5/6  QPSK
+   EXPRESS AM 140°E     - 11681/V 15520 2/3  8PSK
+-------------------------------------------------
+27 Jan 2016:
+   TÜRKSAT 42°E         - 12648/V  8000 5/6  8PSK
+-------------------------------------------------
+26 Jan 2016: no change
+-------------------------------------------------
+25 Jan 2016:
+   ASTRA 4.8°E          +  3701/H  1666 3/4  8PSK
+   EUTELSAT 16°E        + 12607/H 27700 5/6  8PSK
+   BADR 26°E            - 10810/V 27500 3/4  QPSK
+   TELSTAR 15°W         + 11506/V  2893 3/4  QPSK
+-------------------------------------------------
+24 Jan 2016:
+   ASTRA 4.8°E          +  3684/H  1683 3/5  8PSK
+   ASTRA 4.8°E          +  3688/H  1683 3/5  8PSK
+   ASTRA 4.8°E          +  3867/V  1400 2/3  8PSK
+   ASTRA 4.8°E          -  3878/V  6200 2/3  8PSK
+   ASTRA 4.8°E          +  3875/V  6200 2/3  8PSK
+-------------------------------------------------
+23 Jan 2016: no change
+-------------------------------------------------
+22 Jan 2016:
+   NILESAT 7°W          + 11595/V 27500 3/4  QPSK
+-------------------------------------------------
+21 Jan 2016: no change
+-------------------------------------------------
+20 Jan 2016:
+   EUTELSAT 8°W         + 11054/V 27500 2/3  8PSK
+-------------------------------------------------
+19 Jan 2016:
+   ASTRA 31.5°E         - 12129/V 27500 3/4  QPSK
+   TELSTAR 15°W         - 12676/V 14170 3/4  8PSK
+   TELSTAR 15°W         + 12675/V 14170 3/4  8PSK
+-------------------------------------------------
+18 Jan 2016:
+   ASTRA 19.2°E         + 10964/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 10979/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11038/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11053/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11068/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11097/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11112/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11171/H 22000 3/4  8PSK
+   ASTRA 19.2°E         + 11186/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11259/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11288/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11303/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11347/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11377/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11568/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11597/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12188/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12227/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12515/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12522/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12545/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12574/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12611/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12699/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12722/H 23500 2/3  8PSK
+   ASTRA 19.2°E         + 12729/V 22000 2/3  8PSK
+   ASTRA 28.2°E         - 11345/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11345/V 27500 5/6  QPSK
+   INTELSAT 60°E        - 11464/V  1000 7/8  QPSK
+   INTELSAT 60°E        + 11464/V  1000 3/4  QPSK
+   EUTELSAT 5°W         - 12669/H 30080 5/6  8PSK
+   EUTELSAT 5°W         + 12669/H 35000 2/3  8PSK
+-------------------------------------------------
+17 Jan 2016:
+   EUROBIRD 9°E         - 12130/H 27500 3/4  8PSK
+   EUROBIRD 9°E         + 12130/H 27500 2/3  8PSK
+   EUROBIRD 9°E         - 12284/H 27500 2/3  8PSK
+   EUROBIRD 9°E         - 12322/H 27500 3/4  QPSK
+   EUROBIRD 9°E         + 12322/H 27500 2/3  8PSK
+   EUROBIRD 9°E         - 12399/H 27500 2/3  8PSK
+   ASTRA 19.2°E         - 10964/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 10979/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11038/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11053/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11068/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11097/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11112/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11171/H 22000 3/4  8PSK
+   ASTRA 19.2°E         - 11186/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11259/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11288/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11303/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11347/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11377/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11568/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11597/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12188/H 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12227/H 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12515/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12522/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12545/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12574/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12611/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12699/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12722/H 23500 2/3  8PSK
+   ASTRA 19.2°E         - 12729/V 22000 2/3  8PSK
+   ASTRA 28.2°E         - 11798/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 11798/H 29500 8/9  8PSK
+   ASTRA 28.2°E         - 11856/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 11856/V 29500 8/9  8PSK
+   ASTRA 28.2°E         - 12344/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12344/H 29500 8/9  8PSK
+   YAMAL 90°E           + 11471/V 11160 2/3  8PSK
+   TELSTAR 15°W         + 11568/H  2678 2/3  8PSK
+   EUTELSAT 8°W         - 10971/V 27500 5/6  QPSK
+   EUTELSAT 8°W         + 10971/V 27500 3/4  QPSK
+-------------------------------------------------
+16 Jan 2016:
+   EUROBIRD 9°E         - 12130/H 27500 3/4  QPSK
+   EUROBIRD 9°E         + 12130/H 27500 3/4  8PSK
+   TÜRKSAT 42°E         - 11012/V 30000 5/6  QPSK
+   TÜRKSAT 42°E         + 11012/V 30000 5/6  8PSK
+   TELSTAR 15°W         + 12549/V  2894 3/4  QPSK
+-------------------------------------------------
+15 Jan 2016:
+   EUTELSAT 16°E        + 21534/H  1000 2/3  8PSK
+   TÜRKSAT 42°E         - 11797/V  8800 5/6  QPSK
+   TÜRKSAT 42°E         - 11807/V  8000 3/4  8PSK
+   TÜRKSAT 42°E         + 11802/V 17500 3/4  8PSK
+   TÜRKSAT 42°E         + 12091/H  2400 5/6  QPSK
+   EXPRESS AM 53°E      - 11498/H  6888 3/4  QPSK
+   EUTELSAT 5°W         + 12669/H 30080 5/6  8PSK
+-------------------------------------------------
+14 Jan 2016: no change
+-------------------------------------------------
+13 Jan 2016:
+   EUTELSAT 21.6°E      + 11495/H  2170 3/4  QPSK
+   EUTELSAT 21.6°E      + 11497/H  1085 9/10 8PSK
+   EUTELSAT 21.6°E      + 11500/H  2170 3/4  QPSK
+   PAKSAT 38°E          -  3734/V 18000 4/5  8PSK
+   PAKSAT 38°E          +  3734/V 18000 4/5  8PSK
+   EXPRESS AM 53°E      + 11544/H  1666 3/4  QPSK
+-------------------------------------------------
+12 Jan 2016:
+   ASTRA 19.2°E         + 12581/V 22000 2/3  8PSK
+   AMOS 4°W             - 10888/H 11570 3/4  QPSK
+-------------------------------------------------
+11 Jan 2016:
+   EXPRESS AM 53°E      - 11617/H  2100 2/3  QPSK
+-------------------------------------------------
+10 Jan 2016:
+   EUTELSAT 21.6°E      - 11496/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      - 11531/V  2857 3/4  QPSK
+   EUTELSAT 21.6°E      - 11559/V  1650 3/4  8PSK
+   EUTELSAT 21.6°E      + 11494/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      + 11497/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      + 11504/H  2532 3/4  QPSK
+   EUTELSAT 21.6°E      + 11529/V  2000 3/4  QPSK
+   EUTELSAT 21.6°E      + 11532/V  2857 3/4  QPSK
+   EUTELSAT 21.6°E      - 11668/H  1666 5/6  8PSK
+   EUTELSAT 21.6°E      + 11667/H  2083 5/6  8PSK
+   EUTELSAT 21.6°E      + 11670/H  1666 5/6  8PSK
+   EUTELSAT 21.6°E      - 11681/H  2963 3/4  QPSK
+   EUTELSAT 21.6°E      - 11687/H  1800 3/4  QPSK
+   INTELSAT 45°E        + 11604/V  8583 2/3  8PSK
+-------------------------------------------------
+09 Jan 2016:
+   AMOS 4°W             - 11222/H 30000 5/6  8PSK
+-------------------------------------------------
+08 Jan 2016:
+   ASTRA 28.2°E         + 11656/V 22000 5/6  QPSK
+-------------------------------------------------
+07 Jan 2016:
+   PAKSAT 38°E          -  4158/V 12000 3/4  QPSK
+   PAKSAT 38°E          +  4162/V  6922 3/4  QPSK
+-------------------------------------------------
+06 Jan 2016:
+   HELLAS SAT 39°E      - 11560/H  1500 3/4  8PSK
+-------------------------------------------------
+05 Jan 2016: no change
+-------------------------------------------------
+04 Jan 2016:
+   EUTELSAT 10°E        + 11580/V  3330 5/6  QPSK
+   EUTELSAT 10°E        + 11585/V  3330 5/6  QPSK
+   EUTELSAT 10°E        + 11589/V  3330 5/6  QPSK
+   EUTELSAT 10°E        + 11596/V  6665 3/4  QPSK
+   PAKSAT 38°E          -  3818/V  6200 3/5  QPSK
+   PAKSAT 38°E          +  3818/V  6200 3/5  8PSK
+   PAKSAT 38°E          -  4089/V  3330 3/4  QPSK
+   PAKSAT 38°E          +  4089/V  3330 3/4  8PSK
+-------------------------------------------------
+03 Jan 2016:
+   ASTRA 19.2°E         - 11479/V 22000 2/3  8PSK
+   BADR 26°E            + 12054/V 27500 3/4  QPSK
+   TÜRKSAT 42°E         - 12673/V  9600 3/4  QPSK
+-------------------------------------------------
+02 Jan 2016:
+   EUTELSAT 21.6°E      - 10978/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      - 11341/H 26462 2/3  8PSK
+   BADR 26°E            - 10930/H 27500 3/4  QPSK
+   BADR 26°E            - 12054/V 27500 3/4  QPSK
+-------------------------------------------------
+01 Jan 2016:
+   BADR 26°E            + 12578/H  3200 3/4  8PSK
+   EXPRESS AT1 56°E     + 12207/V 27500 3/4  8PSK
+-------------------------------------------------
+31 Dec 2015: no change
+-------------------------------------------------
+30 Dec 2015: no change
+-------------------------------------------------
+29 Dec 2015:
+   ASTRA 4.8°E          +  3860/V  1300 5/6  8PSK
+   ASTRA 4.8°E          +  3863/V  1130 5/6  8PSK
+   ASTRA 4.8°E          +  3865/V  1548 2/3  8PSK
+   ASTRA 4.8°E          +  3868/V  1203 5/6  8PSK
+   ASTRA 4.8°E          +  4103/H  2880 3/4  QPSK
+   TELSTAR 15°W         - 11709/V  3198 7/8  QPSK
+   TELSTAR 15°W         - 11771/V  4800 2/3  8PSK
+   TELSTAR 15°W         - 11860/H 45000 auto 8PSK
+   TELSTAR 15°W         - 11920/H 45000 auto 8PSK
+   TELSTAR 15°W         - 11964/H 14714 2/3  QPSK
+   TELSTAR 15°W         - 12044/H 45000 auto 8PSK
+   TELSTAR 15°W         - 12167/H 45000 5/6  8PSK
+-------------------------------------------------
+28 Dec 2015:
+   BADR 26°E            +  3944/V  2222 3/4  QPSK
+   BADR 26°E            + 12341/H 27500 3/4  QPSK
+-------------------------------------------------
+27 Dec 2015:
+   ASTRA 4.8°E          +  3871/V  1550 2/3  8PSK
+   ASTRA 4.8°E          +  3878/V  6200 2/3  8PSK
+-------------------------------------------------
+26 Dec 2015: no change
+-------------------------------------------------
+25 Dec 2015:
+   EUTELSAT 10°E        - 11444/H  5835 2/3  8PSK
+   BADR 26°E            - 11958/H 27500 3/4  QPSK
+   BADR 26°E            + 11977/V 27500 3/4  QPSK
+-------------------------------------------------
+24 Dec 2015:
+   ASTRA 4.8°E          - 12111/H 27500 5/6  QPSK
+   EUTELSAT 7°E         + 11637/H 30000 5/6  8PSK
+   ASTRA 19.2°E         - 12581/V 22000 2/3  8PSK
+   PAKSAT 38°E          -  3732/V 18000 8/9  8PSK
+   PAKSAT 38°E          +  3734/V 18000 4/5  8PSK
+   PAKSAT 38°E          -  3775/V  1004 3/4  QPSK
+   PAKSAT 38°E          +  3776/V  1004 3/4  QPSK
+   PAKSAT 38°E          -  3818/V  6200 auto QPSK
+   PAKSAT 38°E          +  3818/V  6200 3/5  QPSK
+   PAKSAT 38°E          -  3833/V  2600 3/4  QPSK
+   PAKSAT 38°E          +  3831/V  2600 5/6  8PSK
+   PAKSAT 38°E          -  3973/V  6510 3/4  QPSK
+   PAKSAT 38°E          +  3972/V  6510 3/4  QPSK
+   PAKSAT 38°E          -  4003/V 15550 3/4  QPSK
+   PAKSAT 38°E          +  4004/V 15550 3/4  QPSK
+   PAKSAT 38°E          -  4073/V  6150 3/4  8PSK
+   PAKSAT 38°E          +  4074/V  6150 3/4  8PSK
+   PAKSAT 38°E          -  4090/V  3330 3/4  QPSK
+   PAKSAT 38°E          +  4089/V  3330 3/4  QPSK
+   PAKSAT 38°E          +  4119/V  2200 3/4  QPSK
+   EUTELSAT 8°W         + 12729/H 27500 5/6  QPSK
+-------------------------------------------------
+23 Dec 2015: no change
+-------------------------------------------------
+22 Dec 2015:
+   EXPRESS AM 53°E      + 11617/H  2100 2/3  QPSK
+   HORIZONS 85.1°E      + 12160/H 28800 3/4  QPSK
+   AMOS 4°W             - 11180/H 12500 7/8  QPSK
+   AMOS 4°W             + 11178/H 12500 7/8  QPSK
+-------------------------------------------------
+21 Dec 2015:
+   EUTELSAT 12.5°W      + 12541/H 28230 5/6  8PSK
+-------------------------------------------------
+20 Dec 2015:
+   BADR 26°E            + 11766/H 27500 5/6  QPSK
+-------------------------------------------------
+19 Dec 2015:
+   EUTELSAT 12.5°W      + 10957/V  2141 3/4  QPSK
+   EUTELSAT 12.5°W      - 11622/H  3255 auto QPSK
+   EUTELSAT 12.5°W      - 11643/H  2398 auto QPSK
+   EUTELSAT 12.5°W      - 11645/V  4790 auto QPSK
+   EUTELSAT 12.5°W      - 11651/V  3688 auto QPSK
+   EUTELSAT 12.5°W      - 12672/H  2141 3/4  QPSK
+   AMOS 4°W             - 11180/H  5650 3/4  QPSK
+   AMOS 4°W             + 11180/H 12500 7/8  QPSK
+-------------------------------------------------
+18 Dec 2015: no change
+-------------------------------------------------
+17 Dec 2015:
+   ASTRA 19.2°E         - 10862/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 10994/H 22000 5/6  8PSK
+   ASTRA 19.2°E         + 11082/H 22000 3/4  8PSK
+   ASTRA 19.2°E         + 11494/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11582/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11612/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11837/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 11876/H 27500 3/4  8PSK
+   ASTRA 19.2°E         + 11915/H 27500 9/10 8PSK
+   ASTRA 19.2°E         + 11954/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12032/H 27500 9/10 8PSK
+   ASTRA 19.2°E         + 12051/V 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12071/H 27500 9/10 8PSK
+   ASTRA 19.2°E         + 12129/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12149/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12168/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12207/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12246/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12285/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12305/H 27500 9/10 8PSK
+   ASTRA 19.2°E         + 12324/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12363/V 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12383/H 27500 9/10 8PSK
+   ASTRA 19.2°E         + 12402/V 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12441/V 29700 5/6  8PSK
+   ASTRA 19.2°E         + 12552/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12581/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12604/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12699/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12633/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12640/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12663/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12670/V 22000 2/3  8PSK
+   ASTRA 19.2°E         + 12692/H 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12699/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12729/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12729/V 22000 2/3  8PSK
+-------------------------------------------------
+16 Dec 2015: no change
+-------------------------------------------------
+15 Dec 2015:
+   EUROBIRD 9°E         + 12054/H 27500 2/3  8PSK
+   ASTRA 19.2°E         - 10994/H 22000 5/6  8PSK
+   ASTRA 19.2°E         - 11082/H 22000 3/4  8PSK
+   ASTRA 19.2°E         - 11494/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11582/H 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11612/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11837/H 27500 3/4  QPSK
+   ASTRA 19.2°E         - 11876/H 27500 3/4  8PSK
+   ASTRA 19.2°E         - 11915/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 11954/H 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12032/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 12051/V 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12071/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 12129/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12149/H 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12168/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12207/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12246/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12285/V 29700 2/3  8PSK
+   ASTRA 19.2°E         - 12305/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 12324/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12363/V 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12383/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 12402/V 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12441/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12552/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12581/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12604/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12633/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12640/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12663/H 22000 5/6  QPSK
+   ASTRA 19.2°E         - 12670/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12692/H 22000 5/6  QPSK
+   NILESAT 7°W          - 11555/V 27500 5/6  8PSK
+   NILESAT 7°W          + 11559/V 27500 5/6  QPSK
+-------------------------------------------------
+14 Dec 2015: no change
+-------------------------------------------------
+13 Dec 2015:
+   TÜRKSAT 42°E         + 12648/V  8000 5/6  8PSK
+-------------------------------------------------
+12 Dec 2015:
+   ASTRA 28.2°E         - 10832/H 22000 3/4  8PSK
+   EUTELSAT 8°W         + 11013/V 27500 5/6  QPSK
+-------------------------------------------------
+11 Dec 2015: no change
+-------------------------------------------------
+10 Dec 2015: no change
+-------------------------------------------------
+09 Dec 2015:
+   BADR 26°E            + 12706/H  1852 5/6  8PSK
+-------------------------------------------------
+08 Dec 2015:
+   ASTRA 4.8°E          -  3692/H  1300 5/6  8PSK
+   ASTRA 4.8°E          +  3644/H  1300 5/6  8PSK
+   ASTRA 4.8°E          +  3678/H  1682 3/5  8PSK
+   ASTRA 4.8°E          +  3732/V  1600 1/2  8PSK
+   ASTRA 4.8°E          +  3843/V  1055 9/10 8PSK
+   ASTRA 4.8°E          +  3845/V  1160 9/10 8PSK
+   ASTRA 4.8°E          +  3857/V  1520 3/5  8PSK
+   ASTRA 4.8°E          +  3924/H 19000 2/3  8PSK
+   ASTRA 4.8°E          + 11747/V 30000 3/4  8PSK
+   ASTRA 4.8°E          - 12702/H  2100 3/4  8PSK
+   EUTELSAT 7°E         - 12519/H  6144 3/4  8PSK
+   EUTELSAT 7°E         - 12532/V  1852 2/3  8PSK
+   EUTELSAT 7°E         + 12531/V  1852 2/3  8PSK
+   EUROBIRD 9°E         + 11977/H 27500 2/3  8PSK
+   EUROBIRD 9°E         + 12245/H 27500 2/3  8PSK
+   EUTELSAT 10°E        - 10832/V  8876 5/6  8PSK
+   EUTELSAT 10°E        + 10836/V  3000 3/4  8PSK
+   EUTELSAT 10°E        + 10938/V 10000 5/6  8PSK
+   EUTELSAT 10°E        + 11444/H  5835 2/3  8PSK
+   EUTELSAT 10°E        + 11542/H  4900 3/4  QPSK
+   EUTELSAT 10°E        - 11584/H  9875 3/4  8PSK
+   EUTELSAT 10°E        + 11645/H  4800 2/3  8PSK
+   EUTELSAT 10°E        - 11663/H  5540 3/4  QPSK
+   HOT BIRD 13°E        - 10796/V 27500 5/6  QPSK
+   HOT BIRD 13°E        + 10796/V 27500 3/4  8PSK
+   HOT BIRD 13°E        - 11158/V 27500 5/6  QPSK
+   HOT BIRD 13°E        + 11158/V 27500 3/4  8PSK
+   HOT BIRD 13°E        - 11296/H 27500 3/4  8PSK
+   HOT BIRD 13°E        - 11411/H 27500 5/6  8PSK
+   HOT BIRD 13°E        + 11411/H 27500 3/4  8PSK
+   HOT BIRD 13°E        - 11488/H 27500 5/6  QPSK
+   HOT BIRD 13°E        + 11488/H 27500 3/4  8PSK
+   HOT BIRD 13°E        - 11565/H 27500 3/4  QPSK
+   HOT BIRD 13°E        - 11585/V 27500 3/4  QPSK
+   HOT BIRD 13°E        - 12015/H 27500 3/4  QPSK
+   HOT BIRD 13°E        - 12188/V 27500 5/6  QPSK
+   HOT BIRD 13°E        + 12188/V 27500 3/4  8PSK
+   HOT BIRD 13°E        - 12284/H 27500 5/6  QPSK
+   HOT BIRD 13°E        + 12284/H 27500 3/4  8PSK
+   EUTELSAT 16°E        - 11016/H  1500 2/3  8PSK
+   EUTELSAT 16°E        + 11016/H  1500 4/5  8PSK
+   EUTELSAT 16°E        - 11069/H   332 1/2  QPSK
+   EUTELSAT 16°E        - 11070/H   332 1/2  QPSK
+   EUTELSAT 16°E        - 11071/H   332 1/2  QPSK
+   EUTELSAT 16°E        + 11069/H   334 1/2  QPSK
+   EUTELSAT 16°E        + 11070/H   334 1/2  QPSK
+   EUTELSAT 16°E        + 11071/H   334 1/2  QPSK
+   EUTELSAT 16°E        - 12521/H 30000 2/3  8PSK
+   EUTELSAT 16°E        + 12521/H 30000 5/6  8PSK
+   EUTELSAT 16°E        - 12564/H 30000 2/3  8PSK
+   EUTELSAT 16°E        + 12564/H 30000 5/6  8PSK
+   EUTELSAT 16°E        - 21559/H  1071 3/4  8PSK
+   EUTELSAT 16°E        - 21560/H  1010 2/3  8PSK
+   EUTELSAT 16°E        + 21576/H  5000 3/4  8PSK
+   EUTELSAT 16°E        + 21582/H  3030 2/3  8PSK
+   ASTRA 19.2°E         + 10862/H 22000 2/3  8PSK
+   ASTRA 19.2°E         + 11479/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11553/H 22000 3/4  8PSK
+   ASTRA 19.2°E         - 11720/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 11720/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 11759/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 11759/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 11798/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 11895/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12032/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12032/H 27500 9/10 8PSK
+   ASTRA 19.2°E         - 12071/H 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12071/H 27500 9/10 8PSK
+   EUTELSAT 21.6°E      + 10992/H  3220 5/6  8PSK
+   EUTELSAT 21.6°E      - 11030/H  2220 3/4  QPSK
+   EUTELSAT 21.6°E      + 11394/H  2689 3/4  8PSK
+   EUTELSAT 21.6°E      - 11519/V  1500 5/6  8PSK
+   EUTELSAT 21.6°E      + 11659/H  1480 3/4  8PSK
+   EUTELSAT 21.6°E      + 11665/H  1250 5/6  8PSK
+   EUTELSAT 21.6°E      + 11668/H  1666 5/6  8PSK
+   EUTELSAT 21.6°E      - 11692/V  1445 3/4  QPSK
+   EUTELSAT 21.6°E      + 11693/H  1500 3/4  8PSK
+   ASTRA 23.5°E         - 12129/V 27500 2/3  8PSK
+   ASTRA 23.5°E         + 12129/V 29900 2/3  8PSK
+   ASTRA 23.5°E         - 12643/V   477 1/2  QPSK
+   ASTRA 23.5°E         - 12644/V   555 3/4  QPSK
+   ASTRA 23.5°E         + 12642/V   477 1/2  QPSK
+   ASTRA 23.5°E         + 12643/V   555 3/4  QPSK
+   BADR 26°E            + 12380/H 27500 3/4  QPSK
+   BADR 26°E            - 12608/H  3000 3/4  QPSK
+   ASTRA 28.2°E         - 10832/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 10832/H 22000 3/4  8PSK
+   ASTRA 28.2°E         - 10862/H 23000 2/3  8PSK
+   ASTRA 28.2°E         + 10876/V 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11053/H 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11053/H 23000 3/4  8PSK
+   ASTRA 28.2°E         - 11097/V 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11097/V 23000 3/4  8PSK
+   ASTRA 28.2°E         - 11225/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11225/V 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11538/V 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11612/H 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11720/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 11720/H 29500 8/9  8PSK
+   ASTRA 28.2°E         - 11817/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12032/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12129/V 27500 2/3  QPSK
+   ASTRA 28.2°E         - 12324/V 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12324/V 29500 8/9  8PSK
+   ARABSAT 30.5°E       - 10832/V  2780 5/6  QPSK
+   ARABSAT 30.5°E       - 12614/V  3820 8/9  8PSK
+   ARABSAT 30.5°E       + 12614/V  3800 3/4  8PSK
+   ARABSAT 30.5°E       - 12656/V  1660 5/6  8PSK
+   ARABSAT 30.5°E       + 12624/V  2220 3/4  8PSK
+   ASTRA 31.5°E         + 12129/V 27500 3/4  QPSK
+   EUTELSAT 36°E        - 11862/V 27500 3/4  QPSK
+   EUTELSAT 36°E        + 11862/V 27500 3/4  8PSK
+   PAKSAT 38°E          +  4144/V  2170 3/4  QPSK
+   HELLAS SAT 39°E      + 11454/H  2500 7/8  QPSK
+   HELLAS SAT 39°E      - 11500/H  2960 2/3  8PSK
+   HELLAS SAT 39°E      - 11559/H  1950 2/3  8PSK
+   HELLAS SAT 39°E      - 11618/H  2500 7/8  QPSK
+   HELLAS SAT 39°E      + 11560/H  1500 3/4  8PSK
+   HELLAS SAT 39°E      - 11679/H  3700 5/6  QPSK
+   TÜRKSAT 42°E         - 11014/H  9600 3/4  QPSK
+   TÜRKSAT 42°E         - 11021/H  2222 3/4  QPSK
+   TÜRKSAT 42°E         + 11021/H  2220 3/4  QPSK
+   TÜRKSAT 42°E         + 11070/H  4000 3/4  QPSK
+   TÜRKSAT 42°E         + 11180/H 30000 3/4  QPSK
+   TÜRKSAT 42°E         - 11727/V 27000 5/6  QPSK
+   TÜRKSAT 42°E         - 11794/H 27500 5/6  QPSK
+   TÜRKSAT 42°E         - 11999/V 11666 2/3  8PSK
+   TÜRKSAT 42°E         + 12130/V 27500 5/6  QPSK
+   TÜRKSAT 42°E         - 12685/H 30000 3/4  QPSK
+   TÜRKSAT 42°E         + 12685/H 30000 5/6  QPSK
+   INTELSAT 45°E        - 11509/V 10000 2/3  8PSK
+   INTELSAT 45°E        - 11517/V  2960 7/8  QPSK
+   INTELSAT 45°E        + 11509/V 23331 2/3  8PSK
+   INTELSAT 45°E        - 12568/V  8335 2/3  8PSK
+   YAMAL 49°E           +  3589/H  3235 3/4  QPSK
+   YAMAL 49°E           -  3950/H  3500 3/4  8PSK
+   YAMAL 49°E           +  3950/H  2222 3/4  8PSK
+   EXPRESS AM 53°E      - 11001/H  4160 5/6  8PSK
+   EXPRESS AM 53°E      + 11001/V  1920 3/4  QPSK
+   EXPRESS AM 53°E      - 11149/H  1024 3/4  QPSK
+   EXPRESS AM 53°E      - 11474/H  4666 3/4  QPSK
+   EXPRESS AM 53°E      - 11504/H  2200 5/6  QPSK
+   EXPRESS AM 53°E      - 11506/H  1481 3/4  QPSK
+   EXPRESS AM 53°E      - 11520/H  4800 5/6  QPSK
+   EXPRESS AM 53°E      + 11498/H  6888 3/4  QPSK
+   EXPRESS AM 53°E      - 12647/V  2895 3/4  QPSK
+   EXPRESS AM 53°E      - 12675/V 12000 3/4  QPSK
+   INTELSAT 60°E        - 10964/H  3327 3/4  QPSK
+   ABS 75°E             - 11105/H 43200 5/6  QPSK
+   ABS 75°E             - 11790/H 44000 2/3  QPSK
+   ABS 75°E             - 11793/V 43200 5/6  QPSK
+   ABS 75°E             + 11791/H 44000 2/3  QPSK
+   ABS 75°E             + 11793/V 45000 2/3  8PSK
+   ABS 75°E             + 11856/H 44000 auto QPSK
+   HORIZONS 85.1°E      + 11758/V 45000 3/5  8PSK
+   HORIZONS 85.1°E      + 11838/V 45000 3/5  8PSK
+   HORIZONS 85.1°E      - 12080/H 26700 3/5  8PSK
+   HORIZONS 85.1°E      - 12120/H 26700 3/5  8PSK
+   HORIZONS 85.1°E      - 12160/H 28800 3/5  8PSK
+   HORIZONS 85.1°E      + 12080/H 28800 2/3  8PSK
+   HORIZONS 85.1°E      + 12120/H 28800 2/3  8PSK
+   YAMAL 90°E           - 10908/V   758 2/3  8PSK
+   YAMAL 90°E           + 10933/V 13746 3/4  8PSK
+   YAMAL 90°E           + 11305/V 30000 7/8  QPSK
+   YAMAL 90°E           + 11504/V  2280 3/4  QPSK
+   YAMAL 90°E           - 11536/V  2633 5/6  8PSK
+   YAMAL 90°E           - 11565/V  1980 2/3  8PSK
+   YAMAL 90°E           + 11559/V  5254 5/6  8PSK
+   YAMAL 90°E           - 12505/V  2020 auto 8PSK
+   YAMAL 90°E           - 12718/H 27500 5/6  8PSK
+   YAMAL 90°E           + 12505/V  2020 3/4  8PSK
+   EXPRESS AM 96.5°E    - 11000/H  5700 3/4  QPSK
+   EXPRESS AM 96.5°E    + 11000/H  3375 3/4  8PSK
+   TELSTAR 15°W         - 12170/H 45000 5/6  8PSK
+   TELSTAR 15°W         + 12167/H 45000 5/6  8PSK
+   EUTELSAT 8°W         + 10971/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 10971/V 27500 5/6  QPSK
+   EUTELSAT 8°W         + 11013/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 11054/H 17000 2/3  8PSK
+   EUTELSAT 8°W         + 11096/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 11137/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 11177/H 27500 5/6  QPSK
+   EUTELSAT 8°W         - 12543/H   890 1/2  QPSK
+   EUTELSAT 8°W         + 12563/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12563/V 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12604/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12604/V 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12646/H 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12646/V 27500 5/6  QPSK
+   EUTELSAT 8°W         + 12729/V 27500 5/6  QPSK
+   NILESAT 7°W          - 10853/H 27500 2/3  8PSK
+   NILESAT 7°W          - 10992/V 27500 3/4  QPSK
+   NILESAT 7°W          - 11449/H 27500 2/3  8PSK
+   NILESAT 7°W          - 11662/V 27500 2/3  QPSK
+   NILESAT 7°W          - 11919/H 27500 5/6  QPSK
+   NILESAT 7°W          - 12284/V 27500 3/4  QPSK
+   AMOS 4°W             + 11011/H  6665 3/4  QPSK
+   AMOS 4°W             - 11544/V  1480 5/6  QPSK
+   AMOS 4°W             - 11546/V  2600 5/6  8PSK
+   AMOS 4°W             + 11544/V  2600 5/6  8PSK
+   AMOS 4°W             + 11547/V  1222 7/8  QPSK
+   AMOS 4°W             + 11569/V  5184 3/4  8PSK
+   AMOS 4°W             - 11671/V  1480 3/4  QPSK
+   AMOS 4°W             - 11687/V  5185 3/4  QPSK
+-------------------------------------------------
+14 Sep 2015 - 07 Dec 2015: update service down
+-------------------------------------------------
+13 Sep 2015:
+   HOT BIRD 13°E        - 10727/H 30000 2/3  8PSK
+   HOT BIRD 13°E        + 10727/H 30000 3/4  8PSK
+   BADR 26°E            - 12666/H  2400 3/4  QPSK
+   BADR 26°E            + 12666/H  2400 3/4  8PSK
+   ASTRA 28.2°E         - 11053/H 23000 3/4  8PSK
+   ASTRA 28.2°E         + 11053/H 23000 2/3  8PSK
+   TÜRKSAT 42°E         - 12088/H  5920 5/6  8PSK
+   EXPRESS AM 53°E      - 12675/V 11000 5/6  QPSK
+   EXPRESS AM 53°E      + 12675/V 12000 3/4  QPSK
+-------------------------------------------------
+12 Sep 2015:
+   INTELSAT 45°E        - 11523/V  5787 3/4  QPSK
+   EXPRESS AM 53°E      + 11559/V  4960 7/8  QPSK
+   EXPRESS AT1 56°E     - 11727/H 27500 3/4  8PSK
+   EXPRESS AT1 56°E     - 12437/V 27500 5/6  QPSK
+-------------------------------------------------
+11 Sep 2015: no change
+-------------------------------------------------
+10 Sep 2015:
+   ARABSAT 30.5°E       - 12708/V  2590 3/4  QPSK
+   TÜRKSAT 42°E         + 11833/V  6250 5/6  QPSK
+   TÜRKSAT 42°E         + 12088/H  5920 5/6  8PSK
+   EXPRESS AM 53°E      + 12647/V  2895 3/4  QPSK
+   EXPRESS AM 53°E      + 12675/V 11000 5/6  QPSK
+   YAMAL 90°E           + 11536/V  2633 5/6  8PSK
+-------------------------------------------------
+09 Sep 2015:
+   ASTRA 19.2°E         - 11479/V 22000 2/3  8PSK
+   TÜRKSAT 42°E         - 12130/V 27500 5/6  QPSK
+-------------------------------------------------
+08 Sep 2015:
+   INTELSAT 45°E        + 12559/V  5787 3/4  QPSK
+-------------------------------------------------
+07 Sep 2015:
+   PAKSAT 38°E          -  3818/V  2200 3/4  QPSK
+   PAKSAT 38°E          +  3818/V  6200 auto QPSK
+   EUTELSAT 12.5°W      - 11340/H  2136 3/4  QPSK
+-------------------------------------------------
+06 Sep 2015:
+   EXPRESS AM 53°E      - 11471/H  2400 3/4  QPSK
+   AMOS 4°W             - 10876/H  7500 2/3  8PSK
+-------------------------------------------------
+05 Sep 2015:
+   ASTRA 28.2°E         - 10876/V 22000 5/6  QPSK
+-------------------------------------------------
+04 Sep 2015:
+   HOT BIRD 13°E        + 10727/H 30000 2/3  8PSK
+   ASTRA 19.2°E         + 12344/H 30000 2/3  8PSK
+   YAMAL 90°E           + 10908/V   758 2/3  8PSK
+-------------------------------------------------
+03 Sep 2015:
+   EUTELSAT 36°E        - 11977/V 27500 3/4  QPSK
+   EUTELSAT 36°E        + 11977/V 27500 3/4  8PSK
+   EUTELSAT 36°E        - 12245/V 27500 3/4  QPSK
+   EUTELSAT 36°E        + 12245/V 27500 3/4  8PSK
+   EXPRESS AM 53°E      + 10961/V  1230 3/4  QPSK
+   EXPRESS AM 53°E      + 11149/H  1024 3/4  QPSK
+-------------------------------------------------
+02 Sep 2015: no change
+-------------------------------------------------
+01 Sep 2015:
+   EUROBIRD 9°E         - 12054/H 27500 2/3  8PSK
+   ASTRA 28.2°E         + 11385/V 29500 3/4  8PSK
+   ASTRA 28.2°E         - 11973/V 29500 3/4  8PSK
+   EXPRESS AM 53°E      - 10974/H  8150 3/4  QPSK
+   EXPRESS AM 53°E      + 10974/H  4850 3/4  QPSK
+   YAMAL 90°E           + 11385/H 30000 3/4  8PSK
+-------------------------------------------------
+31 Aug 2015: no change
+-------------------------------------------------
+30 Aug 2015:
+   EUTELSAT 10°E        + 11176/H  2220 3/4  QPSK
+-------------------------------------------------
+29 Aug 2015:
+   ASTRA 28.2°E         - 11538/V 23000 5/6  8PSK
+   ASTRA 28.2°E         + 11538/V 23000 2/3  8PSK
+   YAMAL 90°E           + 11241/V  2740 3/4  8PSK
+-------------------------------------------------
+28 Aug 2015:
+   ASTRA 28.2°E         - 11385/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11597/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 11992/H 27500 2/3  QPSK
+-------------------------------------------------
+27 Aug 2015: no change
+-------------------------------------------------
+26 Aug 2015: no change
+-------------------------------------------------
+25 Aug 2015:
+   EUTELSAT 16°E        + 11055/V 27500 4/5  8PSK
+   EUTELSAT 16°E        + 11094/V 27500 4/5  8PSK
+-------------------------------------------------
+24 Aug 2015: no change
+-------------------------------------------------
+23 Aug 2015: no change
+-------------------------------------------------
+22 Aug 2015: no change
+-------------------------------------------------
+21 Aug 2015: no change
+-------------------------------------------------
+20 Aug 2015:
+   ASTRA 19.2°E         + 11479/V 22000 2/3  8PSK
+   BADR 26°E            + 10930/H 27500 3/4  QPSK
+   ASTRA 28.2°E         - 11597/V 23000 8/9  8PSK
+   ASTRA 28.2°E         + 11973/V 29500 3/4  8PSK
+-------------------------------------------------
+19 Aug 2015: no change
+-------------------------------------------------
+18 Aug 2015: no change
+-------------------------------------------------
+17 Aug 2015:
+   HOT BIRD 13°E        - 11344/H 27500 2/3  QPSK
+-------------------------------------------------
+16 Aug 2015:
+   ASTRA 28.2°E         + 11344/H 27500 2/3  QPSK
+-------------------------------------------------
+15 Aug 2015:
+   ASTRA 28.2°E         - 11344/H 27500 2/3  QPSK
+   PAKSAT 38°E          -  3833/V  3255 5/6  QPSK
+   PAKSAT 38°E          +  3833/V  2600 3/4  QPSK
+   PAKSAT 38°E          +  4093/V  2527 3/4  QPSK
+   TÜRKSAT 42°E         + 11821/H 17000 3/4  QPSK
+-------------------------------------------------
+14 Aug 2015:
+   HOT BIRD 13°E        + 11344/H 27500 2/3  QPSK
+   BADR 26°E            - 10770/V 27500 3/4  QPSK
+   BADR 26°E            - 12612/V  1595 3/4  8PSK
+   BADR 26°E            - 12616/V  2960 3/4  QPSK
+-------------------------------------------------
+13 Aug 2015: no change
+-------------------------------------------------
+12 Aug 2015: no change
+-------------------------------------------------
+11 Aug 2015:
+   EUTELSAT 7°E         - 11637/H 30000 3/4  QPSK
+   INTELSAT 45°E        + 11493/V  2960 7/8  QPSK
+-------------------------------------------------
+10 Aug 2015: no change
+-------------------------------------------------
+09 Aug 2015:
+   PAKSAT 38°E          -  3765/V  1480 3/4  QPSK
+   PAKSAT 38°E          -  3816/V  2200 3/4  QPSK
+   PAKSAT 38°E          +  3818/V  2200 3/4  QPSK
+   PAKSAT 38°E          -  3845/H  6670 5/6  QPSK
+   PAKSAT 38°E          -  4020/H 27700 3/4  QPSK
+   PAKSAT 38°E          +  4005/H 13845 7/8  QPSK
+   PAKSAT 38°E          -  4093/V  2527 3/4  QPSK
+   PAKSAT 38°E          -  4097/V  3255 3/4  QPSK
+   INTELSAT 60°E        - 11077/V  3300 3/4  QPSK
+   ABS 75°E             - 12153/H 44100 4/5  8PSK
+   ABS 75°E             + 12153/H 41900 4/5  8PSK
+   HISPASAT 30°W        - 10931/H  2150 5/6  QPSK
+   HISPASAT 30°W        + 10946/H  4000 9/10 8PSK
+-------------------------------------------------
+08 Aug 2015:
+   EXPRESS AM 11°W      + 11542/V  2170 5/6  QPSK
+-------------------------------------------------
+07 Aug 2015:
+   PAKSAT 38°E          +  3775/V  1004 3/4  QPSK
+   TÜRKSAT 42°E         - 11821/H 17000 3/4  QPSK
+   INTELSAT 24.5°W      + 11488/V 11640 5/6  8PSK
+-------------------------------------------------
+06 Aug 2015:
+   ASTRA 28.2°E         + 11523/H 22000 5/6  QPSK
+-------------------------------------------------
+05 Aug 2015:
+   ASTRA 19.2°E         - 12012/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12012/V 29700 5/6  8PSK
+   YAMAL 49°E           -  3589/H  3235 3/4  QPSK
+   YAMAL 49°E           -  3597/H  1850 5/6  QPSK
+   YAMAL 49°E           -  4117/H  3550 3/4  8PSK
+   YAMAL 49°E           -  4121/H  3720 3/4  8PSK
+   INTELSAT 60°E        + 10957/V  3700 3/4  QPSK
+   INTELSAT 60°E        - 11517/V  2617 3/4  QPSK
+   YAMAL 90°E           - 11092/H 30000 5/6  8PSK
+   YAMAL 90°E           + 11092/H 30000 3/4  8PSK
+-------------------------------------------------
+04 Aug 2015:
+   EUTELSAT 7°E         + 12556/V  4035 5/6  8PSK
+-------------------------------------------------
+03 Aug 2015:
+   ASTRA 4.8°E          - 12226/H 25540 7/8  QPSK
+-------------------------------------------------
+02 Aug 2015:
+   TÜRKSAT 42°E         + 11746/H 27500 5/6  QPSK
+   TÜRKSAT 42°E         + 11821/H 17000 3/4  QPSK
+-------------------------------------------------
+01 Aug 2015:
+   ASTRA 28.2°E         + 11538/V 23000 5/6  8PSK
+-------------------------------------------------
+31 Jul 2015:
+   PAKSAT 38°E          +  3806/V  1444 3/4  8PSK
+-------------------------------------------------
+30 Jul 2015:
+   EUROBIRD 9°E         - 12111/V 27500 3/5  8PSK
+   EUTELSAT 10°E        - 11513/H  1500 5/6  8PSK
+   EUTELSAT 10°E        + 11659/H  1500 5/6  8PSK
+   PAKSAT 38°E          -  3832/V  2500 3/4  QPSK
+   PAKSAT 38°E          +  3833/V  3255 5/6  QPSK
+   EXPRESS AT1 56°E     - 11766/H 27500 3/4  8PSK
+   EXPRESS AT1 56°E     - 11843/H 27500 5/6  QPSK
+   EXPRESS AT1 56°E     - 12207/V 27500 3/4  8PSK
+   INTELSAT 60°E        - 11110/V  1765 3/4  QPSK
+-------------------------------------------------
+29 Jul 2015: no change
+-------------------------------------------------
+28 Jul 2015: no change
+-------------------------------------------------
+27 Jul 2015:
+   ASTRA 28.2°E         + 11479/V 22000 5/6  QPSK
+-------------------------------------------------
+26 Jul 2015: no change
+-------------------------------------------------
+25 Jul 2015:
+   ASTRA 28.2°E         - 12545/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12603/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12610/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12633/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12640/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12663/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12670/V 23000 2/3  8PSK
+-------------------------------------------------
+24 Jul 2015:
+   EUTELSAT 16°E        - 21576/H  5000 3/4  8PSK
+   AMOS 4°W             - 11419/H  7500 7/8  QPSK
+-------------------------------------------------
+23 Jul 2015:
+   TÜRKSAT 42°E         - 11746/H 27500 5/6  QPSK
+-------------------------------------------------
+22 Jul 2015:
+   EUTELSAT 16°E        + 21537/H  1070 3/4  8PSK
+   EUTELSAT 16°E        + 21551/H  1060 2/3  QPSK
+   EUTELSAT 16°E        + 21563/H  1250 2/3  8PSK
+-------------------------------------------------
+21 Jul 2015: no change
+-------------------------------------------------
+20 Jul 2015: no change
+-------------------------------------------------
+19 Jul 2015: no change
+-------------------------------------------------
+18 Jul 2015: no change
+-------------------------------------------------
+17 Jul 2015:
+   ASTRA 28.2°E         + 11141/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11171/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12422/H 27500 2/3  QPSK
+   ASTRA 28.2°E         - 12522/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12552/V 22000 5/6  QPSK
+-------------------------------------------------
+16 Jul 2015:
+   ASTRA 28.2°E         + 11464/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11509/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12515/H 22000 5/6  QPSK
+   EXPRESS AM 53°E      + 10974/H  8150 3/4  QPSK
+   EXPRESS AM 53°E      + 10995/H  3255 3/4  QPSK
+   EXPRESS AM 53°E      + 11001/H  4160 5/6  8PSK
+   EXPRESS AM 53°E      + 11044/V 44950 3/4  QPSK
+   EXPRESS AM 53°E      - 11614/H  2222 3/4  QPSK
+   EXPRESS AM 53°E      + 11520/H  4800 5/6  QPSK
+   EXPRESS AM 53°E      + 12631/V  3000 3/4  QPSK
+-------------------------------------------------
+15 Jul 2015:
+   EUTELSAT 10°E        - 11429/V 30000 5/6  8PSK
+-------------------------------------------------
+14 Jul 2015: no change
+-------------------------------------------------
+13 Jul 2015: no change
+-------------------------------------------------
+12 Jul 2015: no change
+-------------------------------------------------
+11 Jul 2015:
+   TÜRKSAT 42°E         - 11714/V  6000 5/6  QPSK
+   TÜRKSAT 42°E         - 11729/V 15555 5/6  QPSK
+   TÜRKSAT 42°E         - 11742/V  3600 5/6  QPSK
+   TÜRKSAT 42°E         + 11727/V 27000 5/6  QPSK
+-------------------------------------------------
+10 Jul 2015:
+   ASTRA 23.5°E         - 11778/V 27500 9/10 8PSK
+-------------------------------------------------
+09 Jul 2015:
+   ASTRA 19.2°E         + 10906/V 22000 2/3  8PSK
+   EXPRESS AM 53°E      - 12668/H  2892 3/4  QPSK
+-------------------------------------------------
+08 Jul 2015:
+   HOT BIRD 13°E        - 10727/H 30000 2/3  8PSK
+   YAMAL 49°E           -  3711/V  2894 3/4  QPSK
+   YAMAL 49°E           -  3862/V  2894 3/4  QPSK
+   YAMAL 49°E           -  4036/V 15280 3/4  8PSK
+   YAMAL 49°E           -  4101/H 14990 3/4  8PSK
+   YAMAL 49°E           -  4127/V 32088 7/8  QPSK
+   YAMAL 49°E           -  4137/H 15280 3/4  8PSK
+   YAMAL 49°E           -  4156/H 14940 3/4  8PSK
+   YAMAL 49°E           -  4156/V 14990 3/4  8PSK
+-------------------------------------------------
+07 Jul 2015: no change
+-------------------------------------------------
+06 Jul 2015:
+   ASTRA 4.8°E          + 12700/H  3040 7/8  QPSK
+   EXPRESS AM 53°E      - 11044/V 44950 3/4  QPSK
+-------------------------------------------------
+05 Jul 2015:
+   ASTRA 4.8°E          - 12682/V  6888 5/6  QPSK
+   EUROBIRD 9°E         - 12207/H 27500 3/4  QPSK
+   HOT BIRD 13°E        + 11919/V 29900 5/6  QPSK
+   ASTRA 28.2°E         + 11112/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12382/H 29500 3/4  8PSK
+-------------------------------------------------
+04 Jul 2015:
+   HOT BIRD 13°E        - 11919/V 29900 5/6  QPSK
+   ASTRA 28.2°E         + 10964/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 10994/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11024/H 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11053/H 23000 3/4  8PSK
+   ASTRA 28.2°E         + 11068/V 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11081/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11097/V 23000 2/3  8PSK
+   ASTRA 28.2°E         + 11127/V 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11225/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11225/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11265/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11265/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11553/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11568/V 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11582/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11597/V 23000 8/9  8PSK
+   ASTRA 28.2°E         + 11672/H 22000 5/6  QPSK
+   ASTRA 28.2°E         + 11686/V 22000 5/6  QPSK
+   EUTELSAT 28.5°E      - 11389/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11390/V 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11426/V 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11428/H 27500 2/3  QPSK
+   TÜRKSAT 42°E         - 12729/V 30000 5/6  QPSK
+-------------------------------------------------
+03 Jul 2015: no change
+-------------------------------------------------
+02 Jul 2015:
+   ASTRA 19.2°E         - 11479/V 22000 5/6  QPSK
+   ASTRA 19.2°E         - 11568/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 11568/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 11895/V 27500 3/4  QPSK
+   ASTRA 19.2°E         - 12324/V 27500 3/4  QPSK
+   ASTRA 19.2°E         + 12324/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12522/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12522/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12581/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12581/V 22000 2/3  8PSK
+   ASTRA 19.2°E         - 12640/V 22000 5/6  QPSK
+   ASTRA 19.2°E         + 12640/V 22000 2/3  8PSK
+-------------------------------------------------
+01 Jul 2015: no change
+-------------------------------------------------
+30 Jun 2015:
+   ASTRA 28.2°E         + 11385/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11425/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11426/V 27500 2/3  QPSK
+   EUTELSAT 12.5°W      - 11329/H  3500 2/3  8PSK
+-------------------------------------------------
+29 Jun 2015:
+   ASTRA 28.2°E         + 11385/H 27500 2/3  QPSK
+   EUTELSAT 33°E        + 11479/V  1000 3/4  QPSK
+   YAMAL 49°E           -  3914/V  1780 7/8  QPSK
+-------------------------------------------------
+28 Jun 2015:
+   EUTELSAT 10°E        - 11547/H  1500 5/6  8PSK
+   EUTELSAT 10°E        + 11513/H  1500 5/6  8PSK
+   YAMAL 49°E           -  3748/V  2894 3/4  QPSK
+   YAMAL 49°E           -  3756/V  2894 3/4  QPSK
+   EXPRESS AM 53°E      - 11046/H  2400 3/4  QPSK
+   INTELSAT 66°E        - 12596/H  6666 3/4  QPSK
+   EUTELSAT 12.5°W      - 12505/V  1555 2/3  8PSK
+   EUTELSAT 12.5°W      + 12555/V  4104 2/3  8PSK
+-------------------------------------------------
+27 Jun 2015: no change
+-------------------------------------------------
+26 Jun 2015:
+   ASTRA 28.2°E         - 10964/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 10994/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 11024/H 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11053/H 23000 3/4  8PSK
+   ASTRA 28.2°E         - 11068/V 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11097/V 23000 2/3  8PSK
+   ASTRA 28.2°E         - 11127/V 22000 5/6  QPSK
+   ASTRA 28.2°E         - 11585/H 22000 5/6  QPSK
+   ASTRA 28.2°E         - 12304/H 27500 5/6  QPSK
+   TÜRKSAT 42°E         - 11574/H  1800 5/6  QPSK
+   TÜRKSAT 42°E         + 11573/H  1800 5/6  QPSK
+-------------------------------------------------
+25 Jun 2015:
+   EUTELSAT 28.5°E      - 11222/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11224/V 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11259/V 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11261/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11604/V 29500 3/4  8PSK
+   EUTELSAT 28.5°E      - 11662/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11681/V 27500 2/3  QPSK
+-------------------------------------------------
+24 Jun 2015:
+   HOT BIRD 13°E        - 11373/H 29900 3/4  QPSK
+   YAMAL 49°E           -  3728/V  2894 3/4  QPSK
+   EXPRESS AM 53°E      - 10974/H  8150 3/4  QPSK
+   EXPRESS AM 53°E      - 10995/H  3255 3/4  QPSK
+   EXPRESS AM 53°E      - 11001/H  4160 5/6  8PSK
+   EXPRESS AM 53°E      - 11150/H  1024 3/4  QPSK
+   AMOS 4°W             + 10921/H  7500 2/3  8PSK
+   AMOS 4°W             + 11332/H 12500 7/8  QPSK
+-------------------------------------------------
+23 Jun 2015:
+   EUTELSAT 10°E        - 12597/H  1100 5/6  8PSK
+-------------------------------------------------
+22 Jun 2015:
+   EUTELSAT 10°E        - 12512/H  1447 5/6  8PSK
+   HOT BIRD 13°E        + 10727/H 30000 2/3  8PSK
+   EXPRESS AM 53°E      + 10990/V  3111 3/4  QPSK
+   EXPRESS AM 53°E      - 11006/H  3111 3/4  QPSK
+-------------------------------------------------
+21 Jun 2015: no change
+-------------------------------------------------
+20 Jun 2015:
+   ASTRA 19.2°E         - 11406/V 22000 2/3  8PSK
+   ASTRA 28.2°E         - 11973/V 27500 2/3  QPSK
+-------------------------------------------------
+19 Jun 2015:
+   ASTRA 28.2°E         + 11934/V 27500 5/6  QPSK
+   ASTRA 28.2°E         + 11973/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12227/H 29500 3/4  8PSK
+   EXPRESS AM 53°E      - 12637/H  2532 3/4  QPSK
+   EXPRESS AM 53°E      - 12639/V  2894 3/4  QPSK
+-------------------------------------------------
+18 Jun 2015: no change
+-------------------------------------------------
+17 Jun 2015:
+   ASTRA 28.2°E         - 12226/H 29500 3/4  8PSK
+   ASTRA 28.2°E         + 12670/V 23000 2/3  8PSK
+   YAMAL 49°E           -  3875/H  4285 3/4  QPSK
+   YAMAL 49°E           -  3881/H  4285 3/4  QPSK
+-------------------------------------------------
+16 Jun 2015:
+   YAMAL 49°E           -  3844/V  2604 5/6  QPSK
+   YAMAL 49°E           -  3882/V  2480 7/8  QPSK
+   YAMAL 49°E           -  4125/H  3600 3/4  8PSK
+   EXPRESS AM 11°W      - 11549/H  1600 2/3  QPSK
+-------------------------------------------------
+15 Jun 2015: no change
+-------------------------------------------------
+14 Jun 2015:
+   ASTRA 28.2°E         - 10921/H 22000 5/6  QPSK
+   HISPASAT 30°W        - 11967/V  1667 2/3  8PSK
+-------------------------------------------------
+13 Jun 2015:
+   EUROBIRD 9°E         + 11843/V 27500 2/3  8PSK
+   YAMAL 49°E           -  3707/V  2894 7/8  QPSK
+-------------------------------------------------
+12 Jun 2015:
+   EUTELSAT 10°E        - 12512/H  1447 3/4  QPSK
+   EUTELSAT 10°E        + 12512/H  1447 5/6  8PSK
+   EUTELSAT 10°E        - 12599/H  1010 5/6  8PSK
+   EUTELSAT 16°E        - 12640/H  2020 3/4  8PSK
+   PAKSAT 38°E          -  4065/V  2170 3/4  QPSK
+   PAKSAT 38°E          -  4177/V  2800 3/4  QPSK
+   AMOS 4°W             - 11258/H 27500 5/6  QPSK
+   AMOS 4°W             - 11336/H 27500 5/6  QPSK
+-------------------------------------------------
+11 Jun 2015:
+   THOR/INTELSAT 1°W    - 11261/H 24500 7/8  QPSK
+   THOR/INTELSAT 1°W    + 11261/H 25000 3/4  8PSK
+-------------------------------------------------
+10 Jun 2015:
+   ASTRA 4.8°E          + 11785/V 27500 5/6  QPSK
+-------------------------------------------------
+09 Jun 2015:
+   ASTRA 4.8°E          - 11785/V 27500 3/4  QPSK
+   EUTELSAT 5°W         - 11457/H  2400 3/4  8PSK
+   EUTELSAT 5°W         - 11458/H   542 1/2  QPSK
+   EUTELSAT 5°W         + 11456/H  2400 3/4  8PSK
+   EUTELSAT 5°W         + 11458/H   543 1/2  QPSK
+-------------------------------------------------
+08 Jun 2015:
+   EXPRESS AM 53°E      - 10958/V  4800 5/6  QPSK
+   INTELSAT 60°E        + 11622/V  8527 3/4  8PSK
+-------------------------------------------------
+07 Jun 2015:
+   ASTRA 28.2°E         - 12032/H 27500 2/3  QPSK
+   TÜRKSAT 42°E         - 11821/H 17000 3/4  QPSK
+-------------------------------------------------
+06 Jun 2015:
+   EUTELSAT 28.5°E      - 11307/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11307/V 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11344/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      - 11345/V 27500 2/3  QPSK
+   EUTELSAT 12.5°W      + 12569/H   890 1/2  QPSK
+-------------------------------------------------
+05 Jun 2015:
+   ASTRA 28.2°E         + 11307/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11307/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11344/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11345/V 27500 2/3  QPSK
+   ASTRA 28.2°E         - 11934/V 27500 2/3  QPSK
+-------------------------------------------------
+04 Jun 2015: no change
+-------------------------------------------------
+03 Jun 2015:
+   ASTRA 28.2°E         - 12285/V 27500 5/6  QPSK
+   HISPASAT 30°W        - 11909/V  7200 3/5  8PSK
+   HISPASAT 30°W        + 11911/V 12000 3/4  8PSK
+-------------------------------------------------
+02 Jun 2015:
+   YAMAL 49°E           -  3731/V  2480 7/8  QPSK
+   YAMAL 49°E           -  3870/V  2894 3/4  QPSK
+-------------------------------------------------
+01 Jun 2015: no change
+-------------------------------------------------
+31 May 2015: no change
+-------------------------------------------------
+30 May 2015:
+   EUTELSAT 7°E         - 12532/V  1852 2/3  8PSK
+   EUTELSAT 7°E         + 12532/V  1852 2/3  8PSK
+   EUTELSAT 21.6°E      - 11582/V  2850 7/8  8PSK
+   EUTELSAT 21.6°E      + 11577/H   512 2/3  QPSK
+   EUTELSAT 21.6°E      + 11582/V  2850 7/8  QPSK
+   ASTRA 28.2°E         + 12285/V 27500 5/6  QPSK
+-------------------------------------------------
+29 May 2015:
+   ASTRA 4.8°E          +  3692/H  1300 5/6  8PSK
+-------------------------------------------------
+28 May 2015:
+   EUTELSAT 21.6°E      - 10973/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      - 11003/H  2592 5/6  8PSK
+   EUTELSAT 21.6°E      + 11006/H  2592 5/6  QPSK
+   EUTELSAT 21.6°E      + 11030/H  2220 3/4  QPSK
+   EUTELSAT 21.6°E      + 11487/V  2150 3/4  QPSK
+   EUTELSAT 21.6°E      + 11496/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      + 11519/V  1500 5/6  8PSK
+   EUTELSAT 21.6°E      + 11559/V  1650 3/4  8PSK
+   EUTELSAT 21.6°E      - 11601/V  2170 3/4  QPSK
+   EUTELSAT 21.6°E      - 11662/H  3220 5/6  8PSK
+   EUTELSAT 21.6°E      - 11674/H  1500 3/4  8PSK
+   EUTELSAT 21.6°E      + 11594/V  1500 3/4  8PSK
+   EUTELSAT 21.6°E      + 11687/H  1800 3/4  QPSK
+-------------------------------------------------
+27 May 2015:
+   HISPASAT 30°W        - 11962/V  3333 3/4  QPSK
+   HISPASAT 30°W        + 11987/V  3702 3/4  QPSK
+-------------------------------------------------
+26 May 2015:
+   ASTRA 28.2°E         + 12422/H 27500 2/3  QPSK
+   PAKSAT 38°E          -  3778/V  1666 3/4  QPSK
+   PAKSAT 38°E          -  4038/V  2800 3/4  QPSK
+   YAMAL 49°E           -  3895/V  2894 3/4  QPSK
+-------------------------------------------------
+25 May 2015: no change
+-------------------------------------------------
+24 May 2015:
+   PAKSAT 38°E          +  4037/V  4800 5/6  8PSK
+   YAMAL 49°E           -  4121/H  3540 3/4  8PSK
+   YAMAL 49°E           +  4121/H  3720 3/4  8PSK
+   YAMAL 49°E           +  4125/H  3600 3/4  8PSK
+   HISPASAT 30°W        - 11972/H 27500 5/6  QPSK
+-------------------------------------------------
+23 May 2015:
+   ASTRA 19.2°E         + 11406/V 22000 2/3  8PSK
+   TÜRKSAT 42°E         - 10997/H  3700 3/4  QPSK
+   TÜRKSAT 42°E         + 11021/H  2222 3/4  QPSK
+   HISPASAT 30°W        + 11960/V  1110 auto QPSK
+   HISPASAT 30°W        - 11984/V  1100 auto QPSK
+-------------------------------------------------
+21 May 2015:
+   PAKSAT 38°E          -  4042/V  2800 3/4  QPSK
+   PAKSAT 38°E          +  4042/V  2800 3/4  8PSK
+-------------------------------------------------
+20 May 2015: no change
+-------------------------------------------------
+19 May 2015:
+   EXPRESS AM 53°E      - 11563/H  2824 3/4  QPSK
+   ABS 75°E             - 11505/V  3400 7/8  QPSK
+-------------------------------------------------
+18 May 2015:
+   HOT BIRD 13°E        - 12654/H 27500 3/4  QPSK
+   HOT BIRD 13°E        + 12654/H 27500 5/6  QPSK
+   EUTELSAT 5°W         - 11013/V 30000 3/5  8PSK
+   EUTELSAT 5°W         - 11180/V 30000 3/5  8PSK
+   EUTELSAT 5°W         - 11634/H 29950 3/4  8PSK
+   EUTELSAT 5°W         - 11637/V 30000 3/5  8PSK
+   EUTELSAT 5°W         - 11675/H 30000 3/5  8PSK
+   EUTELSAT 5°W         + 11634/H 29950 3/4  8PSK
+   EUTELSAT 5°W         - 12627/H 35000 2/3  8PSK
+-------------------------------------------------
+17 May 2015:
+   EUTELSAT 7°E         - 11668/V 30000 5/6  QPSK
+   EUTELSAT 7°E         + 11668/V 30000 5/6  8PSK
+   EXPRESS AM 53°E      - 12630/H  2600 3/4  8PSK
+   EXPRESS AM 53°E      - 12641/H  2200 5/6  QPSK
+   EXPRESS AM 53°E      - 12643/V  2170 3/4  QPSK
+   EXPRESS AM 53°E      - 12646/V  2894 3/4  QPSK
+   EXPRESS AM 53°E      - 12648/H  2170 3/4  QPSK
+   EXPRESS AM 53°E      - 12678/H  2500 5/6  QPSK
+   EXPRESS AM 53°E      - 12717/H  2170 3/4  QPSK
+-------------------------------------------------
+16 May 2015: no change
+-------------------------------------------------
+15 May 2015:
+   BADR 26°E            -  3800/V 12000 3/4  QPSK
+   EXPRESS AM 53°E      - 12653/V  1447 3/4  QPSK
+   EXPRESS AM 53°E      - 12740/H  2170 3/4  QPSK
+   NILESAT 7°W          - 11449/H 27500 5/6  QPSK
+   NILESAT 7°W          + 11449/H 27500 2/3  8PSK
+-------------------------------------------------
+14 May 2015:
+   EUTELSAT 16°E        - 12738/H  4847 3/4  QPSK
+   EUTELSAT 16°E        + 12738/H  4500 3/4  QPSK
+-------------------------------------------------
+13 May 2015:
+   HOT BIRD 13°E        + 11919/V 29900 5/6  QPSK
+   EUTELSAT 16°E        - 11554/H 30000 7/8  QPSK
+   EUTELSAT 16°E        + 11554/H 30000 5/6  8PSK
+   EUTELSAT 16°E        - 11678/H 30000 3/4  8PSK
+   EUTELSAT 16°E        + 11678/H 30000 3/5  8PSK
+   ASTRA 19.2°E         - 11406/V 22000 2/3  8PSK
+-------------------------------------------------
+12 May 2015:
+   ASTRA 28.2°E         + 12070/H 27500 5/6  QPSK
+   EXPRESS AT1 56°E     - 12418/H 27500 3/4  8PSK
+   EXPRESS AT1 56°E     - 12456/H 27500 3/4  8PSK
+-------------------------------------------------
+11 May 2015:
+   ASTRA 4.8°E          - 12322/V 27500 7/8  QPSK
+-------------------------------------------------
+10 May 2015: no change
+-------------------------------------------------
+09 May 2015:
+   BADR 26°E            + 12182/H 16200 3/4  QPSK
+   EUTELSAT 36°E        - 12437/V 27500 3/4  QPSK
+   EUTELSAT 36°E        + 12437/V 27500 3/4  8PSK
+-------------------------------------------------
+08 May 2015:
+   EUTELSAT 10°E        + 11008/V  2963 3/4  QPSK
+-------------------------------------------------
+07 May 2015:
+   BADR 26°E            + 10850/V 27500 3/4  QPSK
+   EXPRESS AM 53°E      - 11526/H  2894 3/4  QPSK
+   HISPASAT 30°W        - 12705/V  2222 3/4  QPSK
+-------------------------------------------------
+06 May 2015:
+   EXPRESS AM 53°E      - 12633/H  2170 3/4  QPSK
+   EXPRESS AT1 56°E     + 11881/H 27500 3/4  8PSK
+   EXPRESS AT1 56°E     + 11919/H 27500 3/4  8PSK
+   ABS 75°E             - 12227/V 45000 2/3  8PSK
+-------------------------------------------------
+05 May 2015:
+   EXPRESS AM 53°E      - 11519/H  1085 7/8  QPSK
+   THOR/INTELSAT 1°W    - 12718/V 18400 3/4  QPSK
+-------------------------------------------------
+04 May 2015: no change
+-------------------------------------------------
+03 May 2015:
+   BADR 26°E            - 11334/V 27500 3/4  QPSK
+   EUTELSAT 36°E        + 12437/V 27500 3/4  QPSK
+-------------------------------------------------
+02 May 2015:
+   ASTRA 19.2°E         + 11406/V 22000 2/3  8PSK
+   AMOS 4°W             - 11173/H  6665 7/8  QPSK
+-------------------------------------------------
+01 May 2015:
+   ASTRA 28.2°E         + 11053/H 23000 3/4  8PSK
+-------------------------------------------------
+30 Apr 2015:
+   ASTRA 19.2°E         - 12090/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12090/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12168/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12168/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12207/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12207/V 29700 5/6  8PSK
+   ASTRA 19.2°E         - 12441/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12441/V 29700 5/6  8PSK
+   ASTRA 28.2°E         - 12285/V 27500 2/3  QPSK
+-------------------------------------------------
+29 Apr 2015: no change
+-------------------------------------------------
+28 Apr 2015: no change
+-------------------------------------------------
+27 Apr 2015:
+   EUTELSAT 21.6°E      - 11691/H  2894 5/6  8PSK
+-------------------------------------------------
+26 Apr 2015: no change
+-------------------------------------------------
+25 Apr 2015:
+   EUTELSAT 10°E        + 11681/H  3200 5/6  8PSK
+-------------------------------------------------
+24 Apr 2015:
+   ASTRA 28.2°E         - 12188/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12188/H 27500 5/6  QPSK
+   ASTRA 28.2°E         - 12304/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12304/H 27500 5/6  QPSK
+   EXPRESS AM 53°E      - 12512/V  2150 3/4  QPSK
+   EUTELSAT 5°W         - 12606/V 35000 2/3  8PSK
+-------------------------------------------------
+23 Apr 2015: no change
+-------------------------------------------------
+22 Apr 2015:
+   ASTRA 4.8°E          - 12728/V  1600 2/3  QPSK
+   ASTRA 28.2°E         - 11836/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11836/H 27500 5/6  QPSK
+   YAMAL 90°E           - 11667/V 11640 7/8  QPSK
+   YAMAL 90°E           + 11674/V  7800 5/6  8PSK
+-------------------------------------------------
+21 Apr 2015:
+   EUTELSAT 16°E        - 12521/H 30000 auto 8PSK
+   EUTELSAT 16°E        + 12521/H 30000 2/3  8PSK
+-------------------------------------------------
+20 Apr 2015: no change
+-------------------------------------------------
+19 Apr 2015:
+   BADR 26°E            + 12612/V  1595 3/4  8PSK
+   ASTRA 28.2°E         - 11914/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 11914/H 27500 5/6  QPSK
+-------------------------------------------------
+18 Apr 2015:
+   BADR 26°E            + 10810/H 27500 3/4  QPSK
+   BADR 26°E            - 12182/H 16200 3/4  QPSK
+   BADR 26°E            - 12558/H  2850 3/4  QPSK
+   BADR 26°E            - 12605/V  1480 5/6  8PSK
+   BADR 26°E            - 12666/H  2600 3/4  QPSK
+   BADR 26°E            + 12666/H  2400 3/4  QPSK
+   INTELSAT 24.5°W      - 11675/V 27500 7/8  QPSK
+-------------------------------------------------
+17 Apr 2015:
+   ASTRA 28.2°E         - 12110/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12110/H 27500 5/6  QPSK
+   ASTRA 28.2°E         - 12207/V 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12207/V 27500 5/6  QPSK
+-------------------------------------------------
+16 Apr 2015:
+   ASTRA 28.2°E         - 12148/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12148/H 27500 5/6  QPSK
+-------------------------------------------------
+15 Apr 2015: no change
+-------------------------------------------------
+14 Apr 2015:
+   EUTELSAT 16°E        + 11645/V 27700 5/6  8PSK
+   EXPRESS AM 53°E      - 11150/H  1024 7/8  QPSK
+   EXPRESS AM 53°E      + 11150/H  1024 3/4  QPSK
+-------------------------------------------------
+13 Apr 2015:
+   HISPASAT 30°W        - 12284/H 27500 3/4  8PSK
+   THOR/INTELSAT 1°W    - 12149/V 28000 7/8  QPSK
+-------------------------------------------------
+12 Apr 2015:
+   EXPRESS AM 53°E      + 11001/H  4160 5/6  8PSK
+   EXPRESS AM 53°E      + 12646/V  2894 3/4  QPSK
+   INTELSAT 60°E        - 11512/V  2617 3/4  QPSK
+   INTELSAT 60°E        + 11517/V  2617 3/4  QPSK
+   HORIZONS 85.1°E      - 11872/H 15000 2/3  8PSK
+   HORIZONS 85.1°E      + 11872/H 15000 1/2  QPSK
+-------------------------------------------------
+11 Apr 2015: no change
+-------------------------------------------------
+10 Apr 2015:
+   ASTRA 31.5°E         - 11914/H 27500 3/4  8PSK
+-------------------------------------------------
+09 Apr 2015: no change
+-------------------------------------------------
+08 Apr 2015:
+   INTELSAT 45°E        - 11498/V  8333 2/3  8PSK
+   HORIZONS 85.1°E      + 11872/H 15000 2/3  8PSK
+   YAMAL 90°E           + 11565/V  1980 2/3  8PSK
+   YAMAL 90°E           - 12649/H 27500 5/6  8PSK
+   HISPASAT 30°W        + 10730/V 30000 3/4  8PSK
+-------------------------------------------------
+07 Apr 2015:
+   ASTRA 28.2°E         - 11464/H 23000 3/4  8PSK
+   ASTRA 28.2°E         - 12266/H 27500 2/3  QPSK
+   ASTRA 28.2°E         + 12266/H 27500 5/6  QPSK
+   EUTELSAT 28.5°E      + 11389/H 27500 2/3  QPSK
+   TÜRKSAT 42°E         + 11853/H 25000 2/3  8PSK
+   TÜRKSAT 42°E         + 11880/H 20000 2/3  8PSK
+   TÜRKSAT 42°E         + 12196/H  9600 2/3  8PSK
+   YAMAL 90°E           - 12612/V 26471 3/4  QPSK
+   YAMAL 90°E           - 12648/V 26471 3/4  QPSK
+   YAMAL 90°E           + 10972/H 11200 3/4  QPSK
+   YAMAL 90°E           + 11057/H 22222 3/4  8PSK
+   YAMAL 90°E           + 11092/H 30000 5/6  8PSK
+   YAMAL 90°E           + 11131/V 11160 2/3  8PSK
+   YAMAL 90°E           + 11504/H  2080 3/4  QPSK
+   YAMAL 90°E           + 11531/V  4280 3/4  QPSK
+   YAMAL 90°E           + 11649/H  2170 3/4  QPSK
+   YAMAL 90°E           + 11667/V 11640 7/8  QPSK
+   YAMAL 90°E           + 11670/H 14400 5/6  8PSK
+   YAMAL 90°E           + 12505/V  2020 auto 8PSK
+   EXPRESS AM 96.5°E    - 11055/V  1666 2/3  QPSK
+   EXPRESS AM 96.5°E    + 11055/V  1666 2/3  8PSK
+   EXPRESS AM 96.5°E    - 11484/V 11160 2/3  8PSK
+   EXPRESS AM 96.5°E    - 11494/V  4400 3/4  QPSK
+   HISPASAT 30°W        - 11965/V  5240 3/4  QPSK
+   HISPASAT 30°W        + 11962/V  3333 3/4  QPSK
+   HISPASAT 30°W        + 11967/V  1667 2/3  8PSK
+   EXPRESS AM 11°W      + 11523/H  1280 5/6  8PSK
+   EXPRESS AM 11°W      - 11558/H  4000 5/6  8PSK
+   AMOS 4°W             - 10842/H 27500 5/6  QPSK
+-------------------------------------------------
+03 Apr 2015:
+   EXPRESS AM 53°E      + 12512/V  2150 3/4  QPSK
+   ABS 75°E             + 12153/H 44100 4/5  8PSK
+   HISPASAT 30°W        - 11935/V  3000 3/4  QPSK
+   HISPASAT 30°W        - 12108/V  4190 auto QPSK
+   HISPASAT 30°W        + 12108/V  4190 2/3  QPSK
+   HISPASAT 30°W        - 12172/H 27500 3/4  QPSK
+   EUTELSAT 12.5°W      - 12604/H  1200 5/6  8PSK
+   EXPRESS AM 11°W      + 11522/H  1185 2/3  QPSK
+-------------------------------------------------
+02 Apr 2015:
+   NILESAT 7°W          - 10873/V 27500 3/4  QPSK
+   NILESAT 7°W          + 10873/V 27500 5/6  QPSK
+-------------------------------------------------
+01 Apr 2015:
+   HELLAS SAT 39°E      - 11468/H  2220 3/4  QPSK
+   HELLAS SAT 39°E      + 11507/H  2220 3/4  QPSK
+-------------------------------------------------
+31 Mar 2015: no change
+-------------------------------------------------
+30 Mar 2015:
+   TÜRKSAT 42°E         - 11068/H  5600 3/4  QPSK
+-------------------------------------------------
+29 Mar 2015: no change
+-------------------------------------------------
+28 Mar 2015: no change
+-------------------------------------------------
+27 Mar 2015:
+   EUTELSAT 8°W         - 11512/V 27500 3/4  QPSK
+   EUTELSAT 8°W         + 11512/V 27500 5/6  QPSK
+-------------------------------------------------
+26 Mar 2015:
+   ASTRA 19.2°E         + 11229/V 22000 2/3  8PSK
+-------------------------------------------------
+25 Mar 2015:
+   TELSTAR 15°W         - 11075/H 45000 3/4  8PSK
+   AMOS 4°W             - 11628/H  2400 7/8  QPSK
+-------------------------------------------------
+24 Mar 2015: no change
+-------------------------------------------------
+23 Mar 2015: no change
+-------------------------------------------------
+22 Mar 2015:
+   EUTELSAT 16°E        + 12640/H  2020 3/4  8PSK
+   EUTELSAT 33°E        - 11091/H  2020 3/4  8PSK
+-------------------------------------------------
+21 Mar 2015:
+   ASTRA 4.8°E          + 12360/V 27500 5/6  8PSK
+-------------------------------------------------
+20 Mar 2015:
+   ASTRA 19.2°E         - 11406/V 22000 2/3  8PSK
+   AMOS 4°W             + 10888/H 11570 3/4  QPSK
+-------------------------------------------------
+19 Mar 2015:
+   BADR 26°E            - 12149/H 30000 5/6  8PSK
+   BADR 26°E            + 12149/H 30000 5/6  QPSK
+   EUTELSAT 28.5°E      - 11389/H 27500 2/3  QPSK
+   YAMAL 90°E           + 12718/H 27500 5/6  8PSK
+   YAMAL 90°E           + 12718/V 27500 3/4  QPSK
+   AMOS 4°W             + 11173/H  6665 7/8  QPSK
+-------------------------------------------------
+18 Mar 2015: no change
+-------------------------------------------------
+17 Mar 2015: no change
+-------------------------------------------------
+16 Mar 2015: no change
+-------------------------------------------------
+15 Mar 2015:
+   AMOS 4°W             + 10935/H 13750 5/6  QPSK
+-------------------------------------------------
+14 Mar 2015:
+   ASTRA 19.2°E         - 12246/V 29700 2/3  8PSK
+   ASTRA 19.2°E         + 12246/V 29700 5/6  8PSK
+   YAMAL 49°E           -  3866/V  2893 3/4  QPSK
+   EXPRESS AM 53°E      - 12682/H  2500 5/6  QPSK
+   INTELSAT 62°E        - 11176/H  1100 3/4  8PSK
+   TELSTAR 15°W         + 11075/H 45000 3/4  8PSK
+   EXPRESS AM 11°W      - 11554/H  1666 5/6  8PSK
+   EXPRESS AM 11°W      - 11557/H  4000 5/6  8PSK
+   EXPRESS AM 11°W      + 11558/H  4000 5/6  8PSK
+-------------------------------------------------
+09 Mar 2015: no change
+-------------------------------------------------
+08 Mar 2015:
+   EUTELSAT 7°E         + 11262/H 27500 5/6  QPSK
+   ASTRA 28.2°E         - 11428/H 27500 2/3  QPSK
+   EUTELSAT 28.5°E      + 11428/H 27500 2/3  QPSK
+   HORIZONS 85.1°E      - 11466/H  1666 5/6  8PSK
+   HORIZONS 85.1°E      - 11487/H  1950 5/6  8PSK
+   HORIZONS 85.1°E      + 11466/H  2000 5/6  8PSK
+-------------------------------------------------
+07 Mar 2015: no change
+-------------------------------------------------
+06 Mar 2015:
+   EUTELSAT 7°E         - 11262/H 27500 5/6  QPSK
+   PAKSAT 38°E          -  3766/V  1480 3/4  QPSK
+   PAKSAT 38°E          +  3765/V  1480 3/4  QPSK
+   NILESAT 7°W          - 11641/H 27500 1/2  QPSK
+   NILESAT 7°W          + 11641/H 27500 5/6  QPSK
+-------------------------------------------------
+05 Mar 2015: no change
+-------------------------------------------------
+04 Mar 2015:
+   TÜRKSAT 42°E         + 12356/H  7100 2/3  8PSK
+   EUTELSAT 5°W         - 12606/V 29900 2/3  8PSK
+   EUTELSAT 5°W         + 12606/V 35000 2/3  8PSK
+   EUTELSAT 5°W         + 12627/H 35000 2/3  8PSK
+-------------------------------------------------
+03 Mar 2015: no change
+-------------------------------------------------
+02 Mar 2015:
+   HORIZONS 85.1°E      - 11466/H  1666 3/4  8PSK
+   HORIZONS 85.1°E      + 11466/H  1666 5/6  8PSK
+   NILESAT 7°W          - 11641/H 27500 2/3  QPSK
+   NILESAT 7°W          + 11641/H 27500 1/2  QPSK
+-------------------------------------------------
+01 Mar 2015:
+   ASTRA 28.2°E         + 11585/H 22000 5/6  QPSK
+   TÜRKSAT 42°E         + 11746/H 27500 5/6  QPSK
+   AMOS 4°W             - 10876/H  7500 3/4  8PSK
+   AMOS 4°W             + 10876/H  7500 2/3  8PSK
+-------------------------------------------------
+28 Feb 2015:
+   HOT BIRD 13°E        - 10723/H 29900 3/4  QPSK
+   HISPASAT 30°W        - 10730/V 30000 3/4  8PSK
+-------------------------------------------------
+27 Feb 2015:
+   INTELSAT 45°E        + 11498/V  8333 2/3  8PSK
+-------------------------------------------------
+26 Feb 2015: no change
+-------------------------------------------------
+25 Feb 2015: no change
+-------------------------------------------------
+24 Feb 2015: no change
+-------------------------------------------------
+23 Feb 2015:
+   EUTELSAT 28.5°E      - 11585/H 22000 5/6  QPSK
+   EXPRESS AT1 56°E     + 12207/V 27500 3/4  8PSK
+   EXPRESS AT1 56°E     - 12360/V 27500 5/6  QPSK
+-------------------------------------------------
+22 Feb 2015:
+   YAMAL 49°E           +  4036/V 15280 3/4  8PSK
+   YAMAL 49°E           +  4117/H  3550 3/4  8PSK
+   YAMAL 49°E           +  4121/H  3540 3/4  8PSK
+-------------------------------------------------
+21 Feb 2015:
+   EUTELSAT 36°E        - 12437/V 27500 3/4  QPSK
+   TÜRKSAT 42°E         + 12245/H 27500 5/6  8PSK
+-------------------------------------------------
+20 Feb 2015:
+   EUTELSAT 7°E         + 11386/H 27500 3/4  QPSK
+   EXPRESS AM 53°E      - 12630/H  1500 3/4  8PSK
+   EXPRESS AM 53°E      + 12630/H  2600 3/4  8PSK
+   ABS 75°E             + 11734/H 44000 2/3  QPSK
+   ABS 75°E             + 11790/H 44000 2/3  QPSK
+-------------------------------------------------
+19 Feb 2015:
+   EUTELSAT 16°E        - 10977/H 14113 auto 8PSK
+   EUTELSAT 16°E        + 10977/H 24113 auto 8PSK
+   EUTELSAT 16°E        + 11029/H  2300 auto QPSK
+-------------------------------------------------
+18 Feb 2015:
+   TÜRKSAT 42°E         - 12245/H 27500 5/6  8PSK
+   INTELSAT 24.5°W      - 11525/V  1250 5/6  8PSK
+-------------------------------------------------
+17 Feb 2015:
+   EUTELSAT 7°E         + 11262/H 27500 5/6  QPSK
+   EUTELSAT 21.6°E      - 11305/H 30000 2/3  8PSK
+   ASTRA 23.5°E         - 12659/V  6500 3/4  8PSK
+   ASTRA 28.2°E         + 12441/V 29500 3/4  8PSK
+   ARABSAT 30.5°E       - 12614/V  3800 3/4  8PSK
+   ARABSAT 30.5°E       + 12614/V  3820 8/9  8PSK
+   ARABSAT 30.5°E       + 12708/V  2590 3/4  QPSK
+   EXPRESS AT1 56°E     + 12130/V 27500 3/4  8PSK
+-------------------------------------------------
+16 Feb 2015:
+   EUTELSAT 7°E         - 11262/H 27500 5/6  QPSK
+   EUTELSAT 16°E        - 21543/H  1071 3/4  8PSK
+   EUTELSAT 16°E        + 21541/H  1071 3/4  8PSK
+   EUTELSAT 16°E        - 21553/H  4166 3/4  8PSK
+   EUTELSAT 16°E        + 21576/H  5000 3/4  8PSK
+   PAKSAT 38°E          -  4031/V  1085 3/4  QPSK
+   PAKSAT 38°E          +  4031/V  1078 3/4  QPSK
+   PAKSAT 38°E          -  4184/V  2800 3/5  8PSK
+   PAKSAT 38°E          +  4184/V  2800 3/4  8PSK
+   EXPRESS AM 53°E      + 12682/H  2500 5/6  QPSK
+-------------------------------------------------
+15 Feb 2015:
+   EUTELSAT 16°E        - 10976/H 23704 auto QPSK
+   EUTELSAT 16°E        - 11005/H  1380 auto 8PSK
+   EUTELSAT 16°E        + 10977/H 14113 auto 8PSK
+   TÜRKSAT 42°E         + 11574/H  1800 5/6  QPSK
+   EUTELSAT 12.5°W      - 12577/H  2222 5/6  8PSK
+   EUTELSAT 12.5°W      + 12577/H  2222 5/6  8PSK
+-------------------------------------------------
+14 Feb 2015:
+   EXPRESS AM 53°E      - 12506/V  2141 3/4  QPSK
+-------------------------------------------------
+13 Feb 2015:
+   EUTELSAT 16°E        - 12615/V  2500 1/2  QPSK
+   TÜRKSAT 42°E         - 11746/H 27500 5/6  QPSK
+   EXPRESS AM 53°E      - 12509/V  2170 3/4  8PSK
+-------------------------------------------------
+12 Feb 2015: no change
+-------------------------------------------------
+11 Feb 2015:
+   EUTELSAT 21.6°E      + 11305/H 30000 2/3  8PSK
+-------------------------------------------------
+10 Feb 2015: no change
+-------------------------------------------------
+09 Feb 2015: no change
+-------------------------------------------------
+08 Feb 2015:
+   EUTELSAT 36°E        + 12015/V 27500 3/4  8PSK
+-------------------------------------------------
+07 Feb 2015: no change
+-------------------------------------------------
+06 Feb 2015: no change
+-------------------------------------------------
+05 Feb 2015:
+   ASTRA 28.2°E         - 12070/H 27500 2/3  QPSK
+-------------------------------------------------
+04 Feb 2015:
+   EUTELSAT 36°E        - 12015/V 27500 3/4  8PSK
+-------------------------------------------------
+03 Feb 2015:
+   YAMAL 90°E           - 11649/H  2170 3/4  QPSK
+   YAMAL 90°E           - 11667/V 11640 7/8  QPSK
+   YAMAL 90°E           - 11670/H 14400 5/6  8PSK
+   YAMAL 90°E           - 11685/H  2020 3/4  8PSK
+   AMOS 4°W             + 10876/H  7500 3/4  8PSK
+   AMOS 4°W             - 10890/H 30000 3/4  8PSK
+   AMOS 4°W             - 10926/H 30000 3/4  8PSK
+-------------------------------------------------
+02 Feb 2015: no change
+-------------------------------------------------
+01 Feb 2015:
+   ASTRA 23.5°E         + 12659/V  6500 3/4  8PSK
+   HELLAS SAT 39°E      + 11559/H  1950 2/3  8PSK
+   YAMAL 90°E           - 11504/H  2080 3/4  QPSK
+   YAMAL 90°E           - 11531/V  4280 3/4  QPSK
+-------------------------------------------------
+31 Jan 2015:
+   YAMAL 90°E           - 10972/H 11200 3/4  QPSK
+   AMOS 4°W             - 11646/H  7500 7/8  QPSK
+-------------------------------------------------
+30 Jan 2015: no change
+-------------------------------------------------
+29 Jan 2015:
+   EUTELSAT 7°E         - 11262/H 27500 2/3  QPSK
+   EUTELSAT 7°E         + 11262/H 27500 5/6  QPSK
+   EUTELSAT 10°E        - 12599/H  1500 5/6  8PSK
+   EUTELSAT 10°E        + 12599/H  1010 5/6  8PSK
+   EUTELSAT 36°E        + 12015/V 27500 3/4  8PSK
+   PAKSAT 38°E          -  4144/V  2170 3/4  QPSK
+-------------------------------------------------
+28 Jan 2015:
+   EXPRESS AM 53°E      - 12597/H  2170 3/4  QPSK
+-------------------------------------------------
+27 Jan 2015:
+   ASTRA 28.2°E         + 11464/H 23000 3/4  8PSK
+   PAKSAT 38°E          +  4023/V  5700 3/5  8PSK
+   TÜRKSAT 42°E         - 11069/H  5600 3/4  QPSK
+   TÜRKSAT 42°E         + 11068/H  5600 3/4  QPSK
+   TÜRKSAT 42°E         + 11821/H 17000 3/4  QPSK
+-------------------------------------------------
+26 Jan 2015: no change
+-------------------------------------------------
+25 Jan 2015: no change
+-------------------------------------------------
+24 Jan 2015:
+   EUTELSAT 33°E        + 11091/H  2020 3/4  8PSK
+   EXPRESS AM 53°E      - 12509/V  2500 5/6  8PSK
+   EXPRESS AM 53°E      + 12509/V  2170 3/4  8PSK
+   EXPRESS AM 53°E      - 12738/H  1428 3/4  QPSK
+   YAMAL 90°E           - 11057/H 22222 3/4  8PSK
+   YAMAL 90°E           - 11092/H 30000 5/6  8PSK
+   INTELSAT 24.5°W      + 11132/V 14115 1/2  QPSK
+-------------------------------------------------
+23 Jan 2015: no change
+-------------------------------------------------
+22 Jan 2015:
+   EUROBIRD 9°E         - 12188/V 27500 3/4  QPSK
+   YAMAL 49°E           +  3832/V  1500 3/4  QPSK
+-------------------------------------------------
+21 Jan 2015: no change
+-------------------------------------------------
+20 Jan 2015:
+   EUROBIRD 9°E         + 12188/V 27500 3/4  QPSK
+-------------------------------------------------
+09 Jan 2015:
+   EXPRESS AM 53°E      - 11049/H  2531 3/4  QPSK
+   AMOS 4°W             + 11628/H  2400 7/8  QPSK
+-------------------------------------------------
+08 Jan 2015: no change
+-------------------------------------------------
+07 Jan 2015: no change
+-------------------------------------------------
+06 Jan 2015:
+   HISPASAT 30°W        - 10913/H  1950 5/6  QPSK
+   HISPASAT 30°W        - 10915/H  2050 5/6  QPSK
+   HISPASAT 30°W        - 10918/H  2000 5/6  QPSK
+   HISPASAT 30°W        - 10921/H  1950 5/6  QPSK
+   HISPASAT 30°W        - 10924/H  2050 5/6  QPSK
+   EUTELSAT 5°W         - 12711/H 30000 1/2  QPSK
+-------------------------------------------------
+05 Jan 2015:
+   EUTELSAT 7°E         + 11262/H 27500 2/3  QPSK
+   AMOS 4°W             - 11628/H  2400 5/6  QPSK
+-------------------------------------------------
+04 Jan 2015:
+   ABS 75°E             - 11856/H 43200 5/6  QPSK
+   ABS 75°E             - 11900/H 30000 2/3  QPSK
+-------------------------------------------------
+03 Jan 2015:
+   EUTELSAT 7°E         - 11262/H 27500 2/3  QPSK
+-------------------------------------------------
+02 Jan 2015:
+   ASTRA 19.2°E         - 10862/H 22000 7/8  QPSK
+-------------------------------------------------
+01 Jan 2015:
+   ASTRA 19.2°E         + 11112/H 22000 2/3  8PSK
+-------------------------------------------------
