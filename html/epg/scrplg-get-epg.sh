@@ -17,7 +17,7 @@ VMAJ=$(echo "$VER" | cut -d. -f1)
 # get epg data
 VMIN=$(echo "$VER" | cut -d. -f2)
 /usr/bin/wget --header='Accept-Encoding:gzip' -qO- \
-	"http://sboxx.org/epg/?version=$VMIN&code=$EPG_CODE" | \
+	"http://ipbox.linkpc.net/epg/?version=$VMIN&code=$EPG_CODE" | \
 	/bin/gunzip | /usr/bin/sqlite3 $EPG_DATA_DIR/epg.dat
 
 # the end
