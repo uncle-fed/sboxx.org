@@ -35,7 +35,7 @@ HIST=$(date +'%-d %b %Y:')
 DIFF=$(diff -u0 $TP_PREV $TP_CUR | grep '^[+\-]INSERT')
 
 if [ -z "$DIFF" ] ; then
-    $HIST = "$HIST no change"
+    HIST="$HIST no change"
 else
 
     CBAND=$(awk -F, '/^INSERT/{ID=gensub(/.*\(/,"",1,$1); if (ID<300 && $7 != 2) {printf("%d:", ID)}}' $SAT_LIST)
