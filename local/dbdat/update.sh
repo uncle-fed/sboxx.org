@@ -29,6 +29,7 @@ echo "INSERT INTO options VALUES('tpdate', '$(date +%Y%m%d)'); COMMIT; VACUUM;" 
 
 rm -f $DB_WEB
 zip -j $DB_WEB $DB_FINAL
+chown apache:apache $DB_FINAL
 chmod 0400 $DB_FINAL
 
 [ -s "$TP_PREV" ] || exit 0
@@ -69,4 +70,5 @@ echo -e "$HIST" > $HIST_WEB.tmp
 echo "-------------------------------------------------" >> $HIST_WEB.tmp
 cat $HIST_WEB >> $HIST_WEB.tmp
 mv -f $HIST_WEB.tmp $HIST_WEB
+chown apache:apache $HIST_WEB
 chmod 0400 $HIST_WEB
