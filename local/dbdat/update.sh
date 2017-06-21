@@ -29,8 +29,8 @@ echo "INSERT INTO options VALUES('tpdate', '$(date +%Y%m%d)'); COMMIT; VACUUM;" 
 
 rm -f $DB_WEB
 zip -j $DB_WEB $DB_FINAL
-chown apache:apache $DB_FINAL
-chmod 0400 $DB_FINAL
+chown apache:apache $DB_WEB
+chmod 0400 $DB_WEB
 
 [ -s "$TP_PREV" ] || exit 0
 
