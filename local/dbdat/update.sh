@@ -35,12 +35,11 @@ chmod 0400 $DB_WEB
 [ -s "$TP_PREV" ] || exit 0
 
 HIST=$(date +'%-d %b %Y:')
-DIFF=$(diff -u0 $TP_PREV $TP_CUR | grep '^[+\-]INSERT')
+DIFF=$(diff -u0 $TP_PREV $TP_CUR | grep '^[+\-]INSERT' || true)
 
 if [ -z "$DIFF" ] ; then
     HIST="$HIST no change"
 else
-
     CBAND=$(awk -F, '/^INSERT/{ID=gensub(/.*\(/,"",1,$1); if (ID<300 && $7 != 2) {printf("%d:", ID)}}' $SAT_LIST)
 
     # $1=sat_name, $2=sat_id, $3=freq, $4=sr, $5=pol, $11=mod, $12=fec, $13=sty
