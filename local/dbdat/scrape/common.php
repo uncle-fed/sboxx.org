@@ -5,7 +5,7 @@ define('HTML_CONN_TIMEOUT', 10);
 define('HTML_FETCH_TIMEOUT', 20);
 define('HTML_FETCH_RETRY_ATTEMPTS', 10);
 define('HTML_FETCH_RETRY_PAUSE', 10);
-define('HTML_UA_STRING', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36');
+define('HTML_UA_STRING', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0');
 
 
 function fetch_html_xpath(string $page_url, &$xpath_obj) : bool
