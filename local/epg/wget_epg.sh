@@ -1,28 +1,30 @@
-#!/bin/bash
+#!/bin/bash -e
 
-HOME="/home/sboxx.org/epg"
-TMP="/home/sboxx.org/tmp"
-LOG="/home/sboxx.org/log/epg.log"
-URL="http://linux-sat.tv/epg/tvprogram_ua_ru.gz"
+URL="http://epg.in.ua/epg/tvprogram_ua_ru.gz"
 FILE="$(basename $URL)"
+
+SCRIPT=$(readlink -f "$0")
+HOME=$(dirname "$SCRIPT")
+DATA="$HOME/data"
+DB="$HOME/db/db.sqlite"
+LOG="/var/www/log/epg.log"
+UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0"
 
 exec 5>&1
 exec 6>&2
 exec >$LOG 2>&1
 
-cd $TMP
+cd $DATA
 
-[ -f "$FILE" ] && BEFORE=$(stat -c %Y $FILE)
+BEFORE=$(stat -c %Y $FILE 2>/dev/null) || true
 
-/usr/bin/wget --timestamping $URL
+/usr/bin/wget --user-agent="$UA" --timestamping $URL
 
-[ -f "$FILE" ] && AFTER=$(stat -c %Y $FILE)
-
-[ -z "$AFTER" ] && exit
+AFTER=$(stat -c %Y $FILE 2>/dev/null)
 
 if [ "$BEFORE" != "$AFTER" ] ; then
     echo "$BEFORE vs $AFTER"
     exec 1>&5
     exec 2>&6
-    $HOME/epg2db.php
+    /usr/bin/php $HOME/epg2db.php $DATA/$FILE $DB
 fi
