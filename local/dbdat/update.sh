@@ -1,16 +1,17 @@
 #!/bin/bash -e
 
-SAT_LIST="/var/www/local/dbdat/sql/sat.sql"
-TP_STATIC="/var/www/local/dbdat/sql/tp_static.sql"
-TP_PREV="/var/www/local/dbdat/sql/tp_prev.sql"
-TP_CUR="/var/www/local/dbdat/sql/tp_curr.sql"
-TP_ARCH="/var/www/local/dbdat/sql/archive"
-DB_EMPTY="/var/www/local/dbdat/dat/db.empty.dat"
-DB_FINAL="/var/www/local/dbdat/dat/db.dat"
+SAT_LIST="/var/local/dbdat/sql/sat.sql"
+TP_STATIC="/var/local/dbdat/sql/tp_static.sql"
+TP_PREV="/var/local/dbdat/sql/tp_prev.sql"
+TP_CUR="/var/local/dbdat/sql/tp_curr.sql"
+TP_ARCH="/var/local/dbdat/sql/archive"
+DB_EMPTY="/var/local/dbdat/dat/db.empty.dat"
+DB_FINAL="/var/local/dbdat/dat/db.dat"
+
 DB_WEB="/var/www/html/dbdat.zip"
 HIST_WEB="/var/www/html/dbdat.txt"
 
-NEW_TP_LIST=$(/usr/bin/php /var/www/local/dbdat/update.php $SAT_LIST all)
+NEW_TP_LIST=$(/usr/bin/php /var/local/dbdat/update.php $SAT_LIST all)
 
 if [ -s "$TP_CUR" ] ; then
     FDSTAMP=$(stat --format=%Y $TP_CUR)

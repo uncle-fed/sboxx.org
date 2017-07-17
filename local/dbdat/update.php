@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL|E_STRICT);
 ini_set('display_errors', 1);
-ini_set('error_log', '/var/www/log/php-cli.log');
+ini_set('error_log', '/var/local/log/php-cli.log');
 
 define('USAGE', "\nUsage:\n\t" . basename(__FILE__) . " <sat_id|all>\n\n");
 

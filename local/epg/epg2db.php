@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL|E_STRICT);
 ini_set('display_errors', 1);
-ini_set('error_log', '/var/www/log/php-cli.log');
+ini_set('error_log', '/var/local/log/php-cli.log');
 
 define('USAGE', "\nUsage:\n\t" . basename(__FILE__) . " <epg.gz> <db.sqlite>\n\n");
 
@@ -68,23 +68,18 @@ while (!gzeof($tv_guide_file))
         if ($closing_tag_position !== FALSE)
         {
             preg_match('@start="(.+)"@U', $buffer, $match);
-
             $start_datetime = !empty($match[1]) ? $match[1] : '';
 
             preg_match('@stop="(.+)"@U', $buffer, $match);
-
             $stop_datetime = !empty($match[1]) ? $match[1] : '';
 
             preg_match('@channel="(.+)"@U', $buffer, $match);
-
             $channel_id = !empty($match[1]) ? $match[1] : '';
 
             preg_match('@<title.*>(.+)</title>@U', $buffer, $match);
-
             $title = !empty($match[1]) ? $match[1] : '';
 
             preg_match('@<desc.*>(.+)</desc>@U', $buffer, $match);
-
             $desc = !empty($match[1]) ? $match[1] : '';
 
             $buffer = substr($buffer, $closing_tag_position + 12);

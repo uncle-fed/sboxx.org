@@ -7,7 +7,7 @@ SCRIPT=$(readlink -f "$0")
 HOME=$(dirname "$SCRIPT")
 DATA="$HOME/data"
 DB="$HOME/db/db.sqlite"
-LOG="/var/www/log/epg.log"
+LOG="/var/local/log/epg.log"
 UA="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0"
 
 exec 5>&1
