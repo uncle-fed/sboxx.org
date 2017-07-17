@@ -1,15 +1,29 @@
 body {
-   color:#333;
+  color:#333;
 }
 
-#logo {
-  float:left;
-  height:700px;
-  width:190px;
+aside {
+  position:fixed;
+  margin:0;
+  padding:0;
+}
+
+main {
+  margin-left:170px;
+}
+
+main.error {
+  margin-left:270px;
 }
 
 h1 {
   font:bold 24px Arial,sans-serif;
+  margin:20px 0 5px 0;
+}
+
+h2 {
+  font:bold 14px Tahoma,Verdana,Arial,sans-serif;
+  margin:20px 0 5px 0;
 }
 
 p, ul, footer {
@@ -17,11 +31,19 @@ p, ul, footer {
 }
 
 p {
-  margin: 20px 0 20px 0;
+  margin: 20px 0 0 0;
+}
+
+ul {
+  list-style-position: inside;
+  padding:0;
+  margin:10px;
 }
 
 li {
-  margin:8px 0 8px 0;
+  text-indent: -20px;
+  padding-left: 12px;
+  margin:8px auto;
 }
 
 footer {
