@@ -1,8 +1,12 @@
-<?php // PHP v7.1+
+<?php
+
+error_reporting(E_ALL|E_STRICT);
+ini_set('display_errors', 0);
+ini_set('error_log', '/var/local/log/php-web.log');
 
 try
 {
-    $database_link = new SQLite3('/var/www/local/epg/db.sqlite', SQLITE3_OPEN_READWRITE);
+    $database_link = new SQLite3('/var/local/epg/db/db.sqlite', SQLITE3_OPEN_READWRITE);
 }
 catch (Exception $exception)
 {
