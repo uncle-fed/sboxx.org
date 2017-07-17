@@ -1,3 +1,3 @@
 MAILFROM=cron@sboxx.org
-0 0 * * * /var/www/local/dbdat/update.sh
-4 0 * * * /var/www/local/epg/wget_epg.sh
+0 0 * * * /var/local/dbdat/update.sh
+4 0 * * * /var/local/epg/wget_epg.sh
