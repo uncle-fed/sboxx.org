@@ -93,7 +93,7 @@ if (($index_found = array_search("s", $channel_ids_list)) !== FALSE)
 // if accessing with wget, then dump saved channels
 if ($user_agent == "Wget" || isset($_GET['dump']))
 {
-    // ini_set("zlib.output_compression", "On");
+    ini_set("zlib.output_compression", "On");
     header("Content-Type: text/plain; charset=UTF-8");
 
     // if there are no channels to look at, then throw an error
