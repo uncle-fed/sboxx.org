@@ -4,7 +4,7 @@ error_reporting(E_ALL|E_STRICT);
 ini_set('display_errors', 1);
 ini_set('error_log', '/var/local/log/php-cli.log');
 
-define('USAGE', "\nUsage:\n\t" . basename(__FILE__) . " <sat_id|all>\n\n");
+define('USAGE', "\nUsage:\n\t" . basename(__FILE__) . " <sat_list_file.sql> <sat_id|all>\n\n");
 
 $sat_list = $argv[1] ?? '';
 $user_sat_id = $argv[2] ?? 0;
@@ -58,7 +58,7 @@ foreach ($sat_list as $sat)
         continue;
     }
 
-    # // reset tp list and tp index (for current sat)
+    // reset tp list and tp index (for current sat)
     $tp_list = [];
 
     // show what we are about to do
