@@ -22,6 +22,9 @@ function get_lyngsat_details(DOMXPath &$xpath, array &$tp_list, bool $ku_band) :
     // for each TP table...
     foreach ($tp_rows as $tp_row)
     {
+        // discard 'middle east' only transponders
+        $tp_info = trim(@$xpath->query("td[2]", $tp_row)->item(0)->nodeValue);
+        if (preg_match('/middle east/i', $tp_info) && !preg_match('/europe/i', $tp_info)) continue;
 
         // get TP frequency and polarisation aggregate
         $tp_freq_pol = @$xpath->query("td[2]//b", $tp_row)->item(0)->nodeValue;
