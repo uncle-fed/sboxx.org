@@ -18,7 +18,7 @@ INSERT INTO satinfo VALUES( 24,      'EUTELSAT 33°E',  330,0,0,0,2,0,0,0,0,0,0,
 INSERT INTO satinfo VALUES( 25,      'EUTELSAT 36°E',  360,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.flysat.com/e36.php
 INSERT INTO satinfo VALUES( 26,        'PAKSAT 38°E',  380,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Paksat-1R.html
 INSERT INTO satinfo VALUES( 27,    'HELLAS SAT 39°E',  390,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Hellas-Sat-2.html
-INSERT INTO satinfo VALUES( 28,    'EXPRESS AM 40°E',  400,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Express-AM7.html
+INSERT INTO satinfo VALUES( 28,    'EXPRESS AM 40°E',  400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Express-AM7.html
 INSERT INTO satinfo VALUES( 29,       'TURKSAT 42°E',  420,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Turksat-3A-4A.html
 INSERT INTO satinfo VALUES( 30,      'INTELSAT 45°E',  450,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Intelsat-12-904.html
 INSERT INTO satinfo VALUES( 31,     'AZERSPACE 46°E',  460,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/AzerSpace-1-Africasat-1a.html
