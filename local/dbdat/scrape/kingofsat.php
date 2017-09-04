@@ -5,8 +5,12 @@
  */
 function get_kingofsat_details(DOMXPath &$xpath, array &$tp_list, bool $ku_band) : bool
 {
-    // xpath query to get TP tables
-    static $tp_row_xpath  = "//table[@class='frq']//tr[td/span[@class='nbc' and text()]]";
+    // xpath query to get TP rows
+    static $tp_row_xpath = "//table[@class='frq']//tr[td/span[@class='nbc' and text()]]";
+
+    // xpath query to check for video/radio channels
+    static $tp_rv_xpath = "ancestor::table[1]/following-sibling::div[1]/table[@class='fl']//tr[td[1]" .
+                          "[contains(concat(' ',@class,' '),' v ') or contains(concat(' ',@class,' '),' r ')]]";
 
     // initialize TP list
     $tp_list = [];
@@ -21,6 +25,9 @@ function get_kingofsat_details(DOMXPath &$xpath, array &$tp_list, bool $ku_band)
 
     foreach ($tp_rows as $tp_row)
     {
+        // check if the TP contains any valid video or radio channels
+        if (!@$xpath->query($tp_rv_xpath, $tp_row)->length) continue;
+
         $tp_freq = round(trim(@$xpath->query("td[3]", $tp_row)->item(0)->nodeValue));
         $tp_pol = trim(@$xpath->query("td[4]", $tp_row)->item(0)->nodeValue);
         $tp_stype = trim(@$xpath->query("td[7]", $tp_row)->item(0)->nodeValue);
