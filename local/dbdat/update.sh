@@ -13,6 +13,10 @@ HIST_WEB="/var/www/html/dbdat.txt"
 
 NEW_TP_LIST=$(/usr/bin/php /var/local/dbdat/update.php $SAT_LIST all)
 
+if [ -z "$NEW_TP_LIST" ] ; then
+    exit 1
+fi
+
 if [ -s "$TP_CUR" ] ; then
     FDSTAMP=$(stat --format=%Y $TP_CUR)
     FDATE=$(date -d @$FDSTAMP +%Y%m%d.%H%M%S)
