@@ -73,7 +73,7 @@ foreach ($sat_list as $sat)
     // decide which parser to use and get the list
     if (strpos($sat_url, 'kingofsat'))
     {
-        $tp_count = get_kingofsat_details($xpath, $tp_list);
+        $tp_count = get_kingofsat_details($xpath, $tp_list, $ku_band);
     }
     elseif (strpos($sat_url, 'lyngsat'))
     {

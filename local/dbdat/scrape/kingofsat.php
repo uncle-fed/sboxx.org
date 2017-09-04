@@ -3,44 +3,25 @@
 /**
  * kingofsat.net parser
  */
-function get_kingofsat_details(DOMXPath &$xpath, array &$tp_list) : bool
+function get_kingofsat_details(DOMXPath &$xpath, array &$tp_list, bool $ku_band) : bool
 {
     // xpath query to get TP tables
-    static $tp_xquery  = "//html/body/div/table[@class='fl']";
-
-    // xpath query to get TP data row
-    static $tp_row_xquery = "../preceding-sibling::table[1][@class='frq']/tr";
+    static $tp_row_xpath  = "//table[@class='frq']//tr[td/span[@class='nbc' and text()]]";
 
     // initialize TP list
     $tp_list = [];
 
-    $tp_tables = $xpath->query($tp_xquery);
+    $tp_rows = $xpath->query($tp_row_xpath);
 
     // if the result is empty then process next SAT
-    if (!$tp_tables || !$tp_tables->length)
+    if (!$tp_rows || !$tp_rows->length)
     {
         return FALSE;
     }
 
-    foreach ($tp_tables as $tp_table)
+    foreach ($tp_rows as $tp_row)
     {
-        // check if the table has any video or radio services
-        if(!$xpath->query("tr/td[@class='v' or @class='r']", $tp_table)->length)
-        {
-            // skip TPs with no tv or radio services silently
-            continue;
-        }
-
-        $tp_row = $xpath->query($tp_row_xquery, $tp_table)->item(0);
-
-        if (!$tp_row)
-        {
-            // skip malformed TP headers
-            fwrite(STDERR, sprintf("Warning: skipping malformed TP header!\n"));
-            continue;
-        }
-
-        $tp_freq = trim(@$xpath->query("td[3]", $tp_row)->item(0)->nodeValue);
+        $tp_freq = round(trim(@$xpath->query("td[3]", $tp_row)->item(0)->nodeValue));
         $tp_pol = trim(@$xpath->query("td[4]", $tp_row)->item(0)->nodeValue);
         $tp_stype = trim(@$xpath->query("td[7]", $tp_row)->item(0)->nodeValue);
         $tp_mod = trim(@$xpath->query("td[8]", $tp_row)->item(0)->nodeValue);
@@ -59,8 +40,11 @@ function get_kingofsat_details(DOMXPath &$xpath, array &$tp_list) : bool
             continue;
         }
 
+        if ($ku_band && ( $tp_freq < 9000 || $tp_pol == 'R' || $tp_pol == 'L' )) continue;
+        if (!$ku_band && $tp_freq > 9000 && ( $tp_pol == 'V' || $tp_pol == 'H')) continue;
+
         $tp_list[] = [
-            'freq' => round($tp_freq),
+            'freq' => $tp_freq,
             'pol'  => $tp_pol,
             'sr'   => intval($tp_sr),
             'fec'  => $tp_fec,
