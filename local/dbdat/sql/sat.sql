@@ -6,7 +6,7 @@ INSERT INTO satinfo VALUES( 12,       'EUTELSAT 7°E',   70,0,0,0,2,0,0,0,0,0,0,
 INSERT INTO satinfo VALUES( 13,       'EUROBIRD 9°E',   90,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-9E.php
 INSERT INTO satinfo VALUES( 14,      'EUTELSAT 10°E',  100,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-10E.php
 INSERT INTO satinfo VALUES( 15,      'HOT BIRD 13°E',  130,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-13E.php
-INSERT INTO satinfo VALUES( 16,      'EUTELSAT 16°E',  160,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Eutelsat-16A.html
+INSERT INTO satinfo VALUES( 16,      'EUTELSAT 16°E',  160,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-16E.php
 INSERT INTO satinfo VALUES( 17,       'ASTRA 19.2°E',  192,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-19.2E.php
 INSERT INTO satinfo VALUES( 18,    'EUTELSAT 21.6°E',  216,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-21.6E.php
 INSERT INTO satinfo VALUES( 19,       'ASTRA 23.5°E',  235,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-23.5E.php
@@ -39,7 +39,7 @@ INSERT INTO satinfo VALUES( 45,   'EXPRESS AM 140°E', 1400,0,0,0,2,0,0,0,0,0,0,
 INSERT INTO satinfo VALUES( 46,      'HISPASAT 30°W', -300,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Hispasat-30W-4-30W-5.html
 INSERT INTO satinfo VALUES( 47,       'TELSTAR 15°W', -150,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Telstar-12-Vantage.html
 INSERT INTO satinfo VALUES( 48,       'EUTELSAT 8°W',  -80,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Eutelsat-8-West-B.html
-INSERT INTO satinfo VALUES( 49,        'NILESAT 7°W',  -70,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-7W.php
+INSERT INTO satinfo VALUES( 49,        'NILESAT 7°W',  -70,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Nilesat-201-and-Eutelsat-7-West-A.html
 INSERT INTO satinfo VALUES( 50,       'EUTELSAT 5°W',  -50,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Eutelsat-5-West-A.html
 INSERT INTO satinfo VALUES( 51,           'AMOS 4°W',  -40,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Amos-3-7.html
 INSERT INTO satinfo VALUES( 52,           'THOR 1°W',  -10,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Thor-5-6-7-and-Intelsat-10-02.html
