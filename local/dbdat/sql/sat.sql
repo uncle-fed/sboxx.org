@@ -3,7 +3,7 @@ BEGIN;
 -- 11 to 299 = SAT
 INSERT INTO satinfo VALUES( 11,        'ASTRA 4.8°E',   48,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-4.8E.php
 INSERT INTO satinfo VALUES( 12,       'EUTELSAT 7°E',   70,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-7E.php
-INSERT INTO satinfo VALUES( 13,       'EUROBIRD 9°E',   90,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-9E.php
+INSERT INTO satinfo VALUES( 13,       'EUROBIRD 9°E',   90,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://www.lyngsat.com/Eutelsat-9B.html
 INSERT INTO satinfo VALUES( 14,      'EUTELSAT 10°E',  100,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-10E.php
 INSERT INTO satinfo VALUES( 15,      'HOT BIRD 13°E',  130,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-13E.php
 INSERT INTO satinfo VALUES( 16,      'EUTELSAT 16°E',  160,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0); -- http://en.kingofsat.net/pos-16E.php
