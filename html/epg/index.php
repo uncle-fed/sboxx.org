@@ -65,7 +65,7 @@ $code        = isset($_GET["code"]) ? $_GET["code"] : "";
 $code_length = strlen($code);
 
 // test code handling
-if ($code == 'ping!' && $user_agent == "Wget")
+if ($code == 'ping!' && strpos($user_agent, "Wget") === 0)
 {
     header("Content-Type: text/plain; charset=UTF-8");
     die("pong($pgi_version)!\n");
@@ -91,7 +91,7 @@ if (($index_found = array_search("s", $channel_ids_list)) !== FALSE)
 }
 
 // if accessing with wget, then dump saved channels
-if ($user_agent == "Wget" || isset($_GET['dump']))
+if (strpos($user_agent, "Wget") === 0 || isset($_GET['dump']))
 {
     ini_set("zlib.output_compression", "On");
     header("Content-Type: text/plain; charset=UTF-8");
